@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 3da1eacdbc094524ea0350ad88d22d75
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idleAlexis_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073fdb50b2be6dc4ba2d70091f1bee0b
+      internalID: -2114685291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 810
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725f39a9a5c89447959364feed84ab0
+      internalID: -489831469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 810
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f175e7dc3f539e48a4fc92c48102a9c
+      internalID: 605136671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 810
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c2756ab18d1ad47b1e1be4d449ee54
+      internalID: -1002681865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2df80ee98fc4114bb14e33fdaf6a98d
+      internalID: 2045794684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 540
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5731b34c2ba36c4ba7c0b4a1f31c397
+      internalID: -920131388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 540
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1277a3743cfe33244a2d4f979050a845
+      internalID: 1280066819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 540
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb6c0e0ef5967247932935a2aec17e5
+      internalID: -1504563828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a7ac91a0f75be43aec86ea27733f31
+      internalID: 1523660304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 270
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03ac8f81210334b947bd9e43cc3c52
+      internalID: 1880687328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 270
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f4a2676b29874ea27a7782eed599b
+      internalID: -450100918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 270
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21a49633ee2ecd4f832cb3857a2f31e
+      internalID: -1514854340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1c7b0221091646964246bbbf47f87
+      internalID: -1249591466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bb7d7c7aa179a42bc712abc9fe58b9
+      internalID: -1520625196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10147bd0d4073a3408c51dc81adada06
+      internalID: 1474557921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleAlexis_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 173
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4516632, y: 0.4845142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628885d0713676d48bef87bf21e82759
+      internalID: -1168638357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      idleAlexis_0: -2114685291
+      idleAlexis_1: -489831469
+      idleAlexis_10: -450100918
+      idleAlexis_11: -1514854340
+      idleAlexis_12: -1249591466
+      idleAlexis_13: -1520625196
+      idleAlexis_14: 1474557921
+      idleAlexis_15: -1168638357
+      idleAlexis_2: 605136671
+      idleAlexis_3: -1002681865
+      idleAlexis_4: 2045794684
+      idleAlexis_5: -920131388
+      idleAlexis_6: 1280066819
+      idleAlexis_7: -1504563828
+      idleAlexis_8: 1523660304
+      idleAlexis_9: 1880687328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
