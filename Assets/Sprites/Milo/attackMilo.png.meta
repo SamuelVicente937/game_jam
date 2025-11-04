@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3a0b9f3153975dd4a849e607aeb69e3e
+guid: 6f9f57dca0e0a9749b831eca1fdbd348
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,190 +97,190 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: jumpMilo_0
+      name: attackMilo_0
       rect:
         serializedVersion: 2
-        x: 54
-        y: 837
-        width: 158
-        height: 225
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 518
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18ae9a7444ecdd94d9bab23379b6b068
-      internalID: -508546785
+      spriteID: 5a41f7515fb50d347b8d0c3bd281c264
+      internalID: -1552777030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jumpMilo_1
+      name: attackMilo_1
       rect:
         serializedVersion: 2
-        x: 316
-        y: 836
-        width: 186
-        height: 191
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 267
+        y: 518
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30fd81e2f8d3e3947afc25bcb73248af
-      internalID: 266047768
+      spriteID: 06804a1861f4dd349a825e4d585bde0b
+      internalID: 742583534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jumpMilo_2
+      name: attackMilo_2
       rect:
         serializedVersion: 2
-        x: 554
-        y: 838
-        width: 213
-        height: 212
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 534
+        y: 518
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08fd04fa759112e4e88fbdcfeb6f86d1
-      internalID: 19161759
+      spriteID: 1a16a6f95fef0f040a2c7715d8649525
+      internalID: 1127329397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jumpMilo_3
+      name: attackMilo_3
       rect:
         serializedVersion: 2
-        x: 14
-        y: 523
-        width: 254
-        height: 248
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 259
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 477ab16a932434444a53937a7df0f013
-      internalID: -1961891794
+      spriteID: e65f3c6c550216043aa447cec9c5c420
+      internalID: -1189497240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jumpMilo_4
+      name: attackMilo_4
       rect:
         serializedVersion: 2
-        x: 282
-        y: 541
-        width: 251
-        height: 231
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 267
+        y: 259
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6837567a6866ed449986faf55d1378e
-      internalID: 324851353
+      spriteID: 386c92fa105331e4aa48cdfad5b896ad
+      internalID: 1482225705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jumpMilo_5
+      name: attackMilo_5
       rect:
         serializedVersion: 2
-        x: 551
-        y: 564
-        width: 248
-        height: 208
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 534
+        y: 259
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30b4c1c796835e14f97522c816deff2b
-      internalID: -2021596364
+      spriteID: 2bae0f2fac908b946898d7da30f81b8b
+      internalID: -45649267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jumpMilo_6
+      name: attackMilo_6
       rect:
         serializedVersion: 2
-        x: 23
-        y: 123
-        width: 233
-        height: 235
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 0
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95378c033b764714eb8743cfc8ff2176
-      internalID: -212276980
+      spriteID: 44c2c919706550e42b9383e10b0c8a64
+      internalID: 265589649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jumpMilo_7
+      name: attackMilo_7
       rect:
         serializedVersion: 2
-        x: 308
-        y: 64
-        width: 214
-        height: 180
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 267
+        y: 0
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d06eb78ba82223e4d8dd3f55f8be562c
-      internalID: 1844417613
+      spriteID: e0810755543664942a5fb353c8be0f80
+      internalID: 1348526077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jumpMilo_8
+      name: attackMilo_8
       rect:
         serializedVersion: 2
-        x: 573
-        y: 64
-        width: 212
-        height: 195
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 534
+        y: 0
+        width: 267
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4887336, y: 0.4767713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 276bf509c6b13fb46b71c7a2a97b545c
-      internalID: 655349858
+      spriteID: 9833c313680a0d94bb76235d64745668
+      internalID: -1596751814
       vertices: []
       indices: 
       edges: []
@@ -296,15 +296,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      jumpMilo_0: -508546785
-      jumpMilo_1: 266047768
-      jumpMilo_2: 19161759
-      jumpMilo_3: -1961891794
-      jumpMilo_4: 324851353
-      jumpMilo_5: -2021596364
-      jumpMilo_6: -212276980
-      jumpMilo_7: 1844417613
-      jumpMilo_8: 655349858
+      attackMilo_0: -1552777030
+      attackMilo_1: 742583534
+      attackMilo_2: 1127329397
+      attackMilo_3: -1189497240
+      attackMilo_4: 1482225705
+      attackMilo_5: -45649267
+      attackMilo_6: 265589649
+      attackMilo_7: 1348526077
+      attackMilo_8: -1596751814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
