@@ -15,9 +15,12 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask groundLayer;
 
     private bool isGrounded;
+    private bool wasGrounded;
+
     private bool isHit;
     private bool isAttacking;
-
+    private int jumpCount = 0;
+    public int maxJumps = 2;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -33,10 +36,20 @@ public class PlayerMovement : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, raycastLength, groundLayer);
         isGrounded = hit.collider != null;
 
-        // salto
-        if (isGrounded && Input.GetKeyDown(KeyCode.Space) && !isHit)
+        // solo resetea cuando pasa de no estar grounded a estar grounded
+        if (isGrounded && !wasGrounded)
         {
+            jumpCount = 0;
+        }
+
+        wasGrounded = isGrounded;
+
+        // salto
+        if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && !isHit)
+        {
+            rb.velocity = new Vector2(rb.velocity.x, 0f); 
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            jumpCount++;
         }
 
         if (Input.GetKeyDown(KeyCode.Z) && !isAttacking)

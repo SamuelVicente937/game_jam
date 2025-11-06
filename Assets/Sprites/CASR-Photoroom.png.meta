@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: cf1c419576039c84784b07719c8cb585
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5064026537988372667
+    second: CASR-Photoroom_0
+  - first:
+      213: -5192006342972843332
+    second: CASR-Photoroom_1
+  - first:
+      213: 3917900336832538146
+    second: CASR-Photoroom_2
+  - first:
+      213: -102926008866681514
+    second: CASR-Photoroom_3
+  - first:
+      213: -1336433062954906568
+    second: CASR-Photoroom_4
+  - first:
+      213: -1471607996750161481
+    second: CASR-Photoroom_5
+  - first:
+      213: 8442532742138593194
+    second: CASR-Photoroom_6
+  - first:
+      213: 8763296035512013942
+    second: CASR-Photoroom_7
+  - first:
+      213: 2681550712984641021
+    second: CASR-Photoroom_8
+  - first:
+      213: 1927998148622186436
+    second: CASR-Photoroom_9
+  - first:
+      213: 4118254776456803391
+    second: CASR-Photoroom_10
+  - first:
+      213: 618328636499072250
+    second: CASR-Photoroom_11
+  - first:
+      213: 8245577680083282650
+    second: CASR-Photoroom_12
+  - first:
+      213: -6321286584677292221
+    second: CASR-Photoroom_13
+  - first:
+      213: -4628738312234718736
+    second: CASR-Photoroom_14
+  - first:
+      213: 8476806804386007216
+    second: CASR-Photoroom_15
+  - first:
+      213: 1390198302717460612
+    second: CASR-Photoroom_16
+  - first:
+      213: 3154867714549705821
+    second: CASR-Photoroom_17
+  - first:
+      213: 7433282625047940730
+    second: CASR-Photoroom_18
+  - first:
+      213: -6188020088223658064
+    second: CASR-Photoroom_19
+  - first:
+      213: 8352357731038721406
+    second: CASR-Photoroom_20
+  - first:
+      213: 2070048315793629075
+    second: CASR-Photoroom_21
+  - first:
+      213: 8181223194812024885
+    second: CASR-Photoroom_22
+  - first:
+      213: -8201874750190520772
+    second: CASR-Photoroom_23
+  - first:
+      213: 999397984009870011
+    second: CASR-Photoroom_24
+  - first:
+      213: 3584419841523015766
+    second: CASR-Photoroom_25
+  - first:
+      213: -3944207942829693690
+    second: CASR-Photoroom_26
+  - first:
+      213: 7047796437324062399
+    second: CASR-Photoroom_27
+  - first:
+      213: 2513864200556075477
+    second: CASR-Photoroom_28
+  - first:
+      213: 2080794514774789108
+    second: CASR-Photoroom_29
+  - first:
+      213: -7741030407037882136
+    second: CASR-Photoroom_30
+  - first:
+      213: 8332279645532020902
+    second: CASR-Photoroom_31
+  - first:
+      213: -5939879520425745497
+    second: CASR-Photoroom_32
+  - first:
+      213: -2274134645948487581
+    second: CASR-Photoroom_33
+  - first:
+      213: 3335655724076663475
+    second: CASR-Photoroom_34
+  - first:
+      213: -4894705246397174980
+    second: CASR-Photoroom_35
+  - first:
+      213: 2083792165892090301
+    second: CASR-Photoroom_36
+  - first:
+      213: -7555357589148949687
+    second: CASR-Photoroom_37
+  - first:
+      213: 6273806265436252716
+    second: CASR-Photoroom_38
+  - first:
+      213: 6252586287372667547
+    second: CASR-Photoroom_39
+  - first:
+      213: -2824006380300622903
+    second: CASR-Photoroom_40
+  - first:
+      213: -6323248299466283080
+    second: CASR-Photoroom_41
+  - first:
+      213: 7672923530000781491
+    second: CASR-Photoroom_42
+  - first:
+      213: 6396402433074250148
+    second: CASR-Photoroom_43
+  - first:
+      213: -9108274822224266718
+    second: CASR-Photoroom_44
+  - first:
+      213: 8337143557788997064
+    second: CASR-Photoroom_45
+  - first:
+      213: 1859519153697633759
+    second: CASR-Photoroom_46
+  - first:
+      213: 8499177560152291090
+    second: CASR-Photoroom_47
+  - first:
+      213: -2970732717637316230
+    second: CASR-Photoroom_48
+  - first:
+      213: 7971164868527378781
+    second: CASR-Photoroom_49
+  - first:
+      213: 2767906694653422980
+    second: CASR-Photoroom_50
+  - first:
+      213: 4693160686061145057
+    second: CASR-Photoroom_51
+  - first:
+      213: 4736204054597360716
+    second: CASR-Photoroom_52
+  - first:
+      213: -824322011948101796
+    second: CASR-Photoroom_53
+  - first:
+      213: -4747587016197820190
+    second: CASR-Photoroom_54
+  - first:
+      213: -1270148360930200475
+    second: CASR-Photoroom_55
+  - first:
+      213: -351808924616974411
+    second: CASR-Photoroom_56
+  - first:
+      213: -7202227843138232509
+    second: CASR-Photoroom_57
+  - first:
+      213: 1027594140905736528
+    second: CASR-Photoroom_58
+  - first:
+      213: 6548590485188616598
+    second: CASR-Photoroom_59
+  - first:
+      213: -238903381330101700
+    second: CASR-Photoroom_60
+  - first:
+      213: 7307645609789451617
+    second: CASR-Photoroom_61
+  - first:
+      213: -1135309524227750132
+    second: CASR-Photoroom_62
+  - first:
+      213: -2880710361648715295
+    second: CASR-Photoroom_63
+  - first:
+      213: -2762803203079234883
+    second: CASR-Photoroom_64
+  - first:
+      213: 6583449027882846352
+    second: CASR-Photoroom_65
+  - first:
+      213: 143746085259630287
+    second: CASR-Photoroom_66
+  - first:
+      213: 2627470329699001846
+    second: CASR-Photoroom_67
+  - first:
+      213: -4001322387562679772
+    second: CASR-Photoroom_68
+  - first:
+      213: -5158850128274134285
+    second: CASR-Photoroom_69
+  - first:
+      213: -880326093409337938
+    second: CASR-Photoroom_70
+  - first:
+      213: -9081077537940682213
+    second: CASR-Photoroom_71
+  - first:
+      213: 2386637230714793072
+    second: CASR-Photoroom_72
+  - first:
+      213: 658958156457396092
+    second: CASR-Photoroom_73
+  - first:
+      213: 1244439363199132055
+    second: CASR-Photoroom_74
+  - first:
+      213: 5378183924616657667
+    second: CASR-Photoroom_75
+  - first:
+      213: -7251263352529881286
+    second: CASR-Photoroom_76
+  - first:
+      213: -5924267062575515808
+    second: CASR-Photoroom_77
+  - first:
+      213: 4794321246494890363
+    second: CASR-Photoroom_78
+  - first:
+      213: 5129891017044241127
+    second: CASR-Photoroom_79
+  - first:
+      213: 7772005584286521890
+    second: CASR-Photoroom_80
+  - first:
+      213: 873236357423576387
+    second: CASR-Photoroom_81
+  - first:
+      213: -1830442764567480195
+    second: CASR-Photoroom_82
+  - first:
+      213: -2087855443973759639
+    second: CASR-Photoroom_83
+  - first:
+      213: -901589283003647352
+    second: CASR-Photoroom_84
+  - first:
+      213: 5145860450286756977
+    second: CASR-Photoroom_85
+  - first:
+      213: -4173794759552364507
+    second: CASR-Photoroom_86
+  - first:
+      213: -4483122315570807730
+    second: CASR-Photoroom_87
+  - first:
+      213: 3433650070866383152
+    second: CASR-Photoroom_88
+  - first:
+      213: -127380167262598584
+    second: CASR-Photoroom_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CASR-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 642
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5474d0ea1b6f8b9b0800000000000000
+      internalID: -5064026537988372667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 712
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba578f4db942f7b0800000000000000
+      internalID: -5192006342972843332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 642
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2266942399d2f5630800000000000000
+      internalID: 3917900336832538146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 642
+        width: 113
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d4a5b1755529ef0800000000000000
+      internalID: -102926008866681514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 642
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4c70c539047de0800000000000000
+      internalID: -1336433062954906568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 645
+        width: 174
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b91519e25cc39be0800000000000000
+      internalID: -1471607996750161481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 645
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf76cb6cc6e92570800000000000000
+      internalID: 8442532742138593194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 645
+        width: 145
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674584a705b7d9970800000000000000
+      internalID: 8763296035512013942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 645
+        width: 164
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd15ae7a28c63520800000000000000
+      internalID: 2681550712984641021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 351
+        width: 51
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c77c38e910a1ca10800000000000000
+      internalID: 1927998148622186436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 351
+        width: 52
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34734556eaf62930800000000000000
+      internalID: 4118254776456803391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 352
+        width: 53
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49afc6e9eb49800800000000000000
+      internalID: 618328636499072250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 642
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adae04d863d2e6270800000000000000
+      internalID: 8245577680083282650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 562
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3472ed4c7574648a0800000000000000
+      internalID: -6321286584677292221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 564
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92205770b63cfb0800000000000000
+      internalID: -4628738312234718736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 564
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8ca0560eaa3a570800000000000000
+      internalID: 8476806804386007216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 578
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48043d0adf9fa4310800000000000000
+      internalID: 1390198302717460612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 546
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c651f987758cb20800000000000000
+      internalID: 3154867714549705821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 515
+        width: 55
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ec01d0a23582760800000000000000
+      internalID: 7433282625047940730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 544
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf827ae38cbf1aa0800000000000000
+      internalID: -6188020088223658064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 587
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75fc8b8a1989e370800000000000000
+      internalID: 8352357731038721406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 455
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f56c2c9f94abc10800000000000000
+      internalID: 2070048315793629075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 543
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53805f2562b898170800000000000000
+      internalID: 8181223194812024885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 587
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f5aebe561d2e80800000000000000
+      internalID: -8201874750190520772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 502
+        width: 89
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba5622eb239edd00800000000000000
+      internalID: 999397984009870011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 543
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65067d3dada6eb130800000000000000
+      internalID: 3584419841523015766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 463
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605ac57f5cb5349c0800000000000000
+      internalID: -3944207942829693690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 546
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbed6f7d48dcec160800000000000000
+      internalID: 7047796437324062399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 403
+        width: 73
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d957bfdb2a03e220800000000000000
+      internalID: 2513864200556075477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 403
+        width: 73
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb8bbf269770ec10800000000000000
+      internalID: 2080794514774789108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 485
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e07209cbd5529490800000000000000
+      internalID: -7741030407037882136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 535
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a06729f03432a370800000000000000
+      internalID: 8332279645532020902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 403
+        width: 73
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e7680c0f419da0800000000000000
+      internalID: -5939879520425745497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 406
+        width: 73
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368e4d0a696a070e0800000000000000
+      internalID: -2274134645948487581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 401
+        width: 71
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2869e3531aa4e20800000000000000
+      internalID: 3335655724076663475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 406
+        width: 73
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b614cf283821cb0800000000000000
+      internalID: -4894705246397174980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 470
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db96db93fed1bec10800000000000000
+      internalID: 2083792165892090301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 406
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943a9bb7d4af52790800000000000000
+      internalID: -7555357589148949687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 515
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aa2f0fe89011750800000000000000
+      internalID: 6273806265436252716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 462
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a835ac916a5c650800000000000000
+      internalID: 6252586287372667547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 463
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3aebac82d1fc8d0800000000000000
+      internalID: -2824006380300622903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 484
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b728b37c2f4f38a0800000000000000
+      internalID: -6323248299466283080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 426
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0de623c43bb7a60800000000000000
+      internalID: 7672923530000781491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 402
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1c5df8f1694c850800000000000000
+      internalID: 6396402433074250148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 478
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a30b09e48e89180800000000000000
+      internalID: -9108274822224266718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 407
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5137bc4eb73b370800000000000000
+      internalID: 8337143557788997064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 407
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5be2171d65ec910800000000000000
+      internalID: 1859519153697633759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 353
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21739dbd5f423f570800000000000000
+      internalID: 8499177560152291090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 353
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d89a3556d5c6d0800000000000000
+      internalID: -2970732717637316230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 354
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d5a207344f9e60800000000000000
+      internalID: 7971164868527378781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 354
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d2e3a4974996620800000000000000
+      internalID: 2767906694653422980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 353
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebc08e47c4712140800000000000000
+      internalID: 4693160686061145057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 353
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c5a028e706ab140800000000000000
+      internalID: 4736204054597360716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 354
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f4c416f7b6f84f0800000000000000
+      internalID: -824322011948101796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 353
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0b54733ce2d1eb0800000000000000
+      internalID: -4747587016197820190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 353
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564f5b69bc68f5ee0800000000000000
+      internalID: -1270148360930200475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 353
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf9463a5af1e1bf0800000000000000
+      internalID: -351808924616974411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 353
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f515a8feb8c0c90800000000000000
+      internalID: -7202227843138232509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 353
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05985fd3d6fb24e00800000000000000
+      internalID: 1027594140905736528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 353
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691ab21b95441ea50800000000000000
+      internalID: 6548590485188616598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 353
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3afd24f3ae3facf0800000000000000
+      internalID: -238903381330101700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 252
+        width: 152
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d61fbe6f8f96560800000000000000
+      internalID: 7307645609789451617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 186
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07894ab0029e30f0800000000000000
+      internalID: -1135309524227750132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 259
+        width: 153
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e924215039a508d0800000000000000
+      internalID: -2880710361648715295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 259
+        width: 172
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba9620ff1d88a9d0800000000000000
+      internalID: -2762803203079234883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 261
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09809df920c1d5b50800000000000000
+      internalID: 6583449027882846352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 269
+        width: 160
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6d0cd8d40bef100800000000000000
+      internalID: 143746085259630287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 269
+        width: 156
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5669b0856a67420800000000000000
+      internalID: 2627470329699001846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 249
+        width: 148
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42232890d727878c0800000000000000
+      internalID: -4001322387562679772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 186
+        width: 148
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faedbe14251868b0800000000000000
+      internalID: -5158850128274134285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 175
+        width: 124
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead34db051478c3f0800000000000000
+      internalID: -880326093409337938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 163
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a4445c71889f180800000000000000
+      internalID: -9081077537940682213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 175
+        width: 123
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c2a789ae90f1120800000000000000
+      internalID: 2386637230714793072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 167
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c774d75b3f6152900800000000000000
+      internalID: 658958156457396092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 72
+        width: 206
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7916ffbe103254110800000000000000
+      internalID: 1244439363199132055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 70
+        width: 170
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bfd7bd8c523aa40800000000000000
+      internalID: 5378183924616657667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 205
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37f5a356665e5b90800000000000000
+      internalID: -7251263352529881286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 163
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b3a4ae76c8cda0800000000000000
+      internalID: -5924267062575515808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b799f64b5c9d88240800000000000000
+      internalID: 4794321246494890363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 41
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaa36f53b8013740800000000000000
+      internalID: 5129891017044241127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 25
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a10cba6e5bbdb60800000000000000
+      internalID: 7772005584286521890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 71
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345303927db5e1c00800000000000000
+      internalID: 873236357423576387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 70
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d787544f006f896e0800000000000000
+      internalID: -1830442764567480195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 104
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d149f19827603e0800000000000000
+      internalID: -2087855443973759639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 13
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab44de259ec73f0800000000000000
+      internalID: -901589283003647352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174e21bc0d4c96740800000000000000
+      internalID: 5145860450286756977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 154
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5209e77a7c3b316c0800000000000000
+      internalID: -4173794759552364507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 11
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c76cfa100c8c1c0800000000000000
+      internalID: -4483122315570807730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 11
+        width: 237
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0315cf41c86c6af20800000000000000
+      internalID: 3433650070866383152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASR-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 11
+        width: 132
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a02eaa9647b3ef0800000000000000
+      internalID: -127380167262598584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6510a14620525d54b9c48a21fd53c631
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CASR-Photoroom_0: -5064026537988372667
+      CASR-Photoroom_1: -5192006342972843332
+      CASR-Photoroom_10: 4118254776456803391
+      CASR-Photoroom_11: 618328636499072250
+      CASR-Photoroom_12: 8245577680083282650
+      CASR-Photoroom_13: -6321286584677292221
+      CASR-Photoroom_14: -4628738312234718736
+      CASR-Photoroom_15: 8476806804386007216
+      CASR-Photoroom_16: 1390198302717460612
+      CASR-Photoroom_17: 3154867714549705821
+      CASR-Photoroom_18: 7433282625047940730
+      CASR-Photoroom_19: -6188020088223658064
+      CASR-Photoroom_2: 3917900336832538146
+      CASR-Photoroom_20: 8352357731038721406
+      CASR-Photoroom_21: 2070048315793629075
+      CASR-Photoroom_22: 8181223194812024885
+      CASR-Photoroom_23: -8201874750190520772
+      CASR-Photoroom_24: 999397984009870011
+      CASR-Photoroom_25: 3584419841523015766
+      CASR-Photoroom_26: -3944207942829693690
+      CASR-Photoroom_27: 7047796437324062399
+      CASR-Photoroom_28: 2513864200556075477
+      CASR-Photoroom_29: 2080794514774789108
+      CASR-Photoroom_3: -102926008866681514
+      CASR-Photoroom_30: -7741030407037882136
+      CASR-Photoroom_31: 8332279645532020902
+      CASR-Photoroom_32: -5939879520425745497
+      CASR-Photoroom_33: -2274134645948487581
+      CASR-Photoroom_34: 3335655724076663475
+      CASR-Photoroom_35: -4894705246397174980
+      CASR-Photoroom_36: 2083792165892090301
+      CASR-Photoroom_37: -7555357589148949687
+      CASR-Photoroom_38: 6273806265436252716
+      CASR-Photoroom_39: 6252586287372667547
+      CASR-Photoroom_4: -1336433062954906568
+      CASR-Photoroom_40: -2824006380300622903
+      CASR-Photoroom_41: -6323248299466283080
+      CASR-Photoroom_42: 7672923530000781491
+      CASR-Photoroom_43: 6396402433074250148
+      CASR-Photoroom_44: -9108274822224266718
+      CASR-Photoroom_45: 8337143557788997064
+      CASR-Photoroom_46: 1859519153697633759
+      CASR-Photoroom_47: 8499177560152291090
+      CASR-Photoroom_48: -2970732717637316230
+      CASR-Photoroom_49: 7971164868527378781
+      CASR-Photoroom_5: -1471607996750161481
+      CASR-Photoroom_50: 2767906694653422980
+      CASR-Photoroom_51: 4693160686061145057
+      CASR-Photoroom_52: 4736204054597360716
+      CASR-Photoroom_53: -824322011948101796
+      CASR-Photoroom_54: -4747587016197820190
+      CASR-Photoroom_55: -1270148360930200475
+      CASR-Photoroom_56: -351808924616974411
+      CASR-Photoroom_57: -7202227843138232509
+      CASR-Photoroom_58: 1027594140905736528
+      CASR-Photoroom_59: 6548590485188616598
+      CASR-Photoroom_6: 8442532742138593194
+      CASR-Photoroom_60: -238903381330101700
+      CASR-Photoroom_61: 7307645609789451617
+      CASR-Photoroom_62: -1135309524227750132
+      CASR-Photoroom_63: -2880710361648715295
+      CASR-Photoroom_64: -2762803203079234883
+      CASR-Photoroom_65: 6583449027882846352
+      CASR-Photoroom_66: 143746085259630287
+      CASR-Photoroom_67: 2627470329699001846
+      CASR-Photoroom_68: -4001322387562679772
+      CASR-Photoroom_69: -5158850128274134285
+      CASR-Photoroom_7: 8763296035512013942
+      CASR-Photoroom_70: -880326093409337938
+      CASR-Photoroom_71: -9081077537940682213
+      CASR-Photoroom_72: 2386637230714793072
+      CASR-Photoroom_73: 658958156457396092
+      CASR-Photoroom_74: 1244439363199132055
+      CASR-Photoroom_75: 5378183924616657667
+      CASR-Photoroom_76: -7251263352529881286
+      CASR-Photoroom_77: -5924267062575515808
+      CASR-Photoroom_78: 4794321246494890363
+      CASR-Photoroom_79: 5129891017044241127
+      CASR-Photoroom_8: 2681550712984641021
+      CASR-Photoroom_80: 7772005584286521890
+      CASR-Photoroom_81: 873236357423576387
+      CASR-Photoroom_82: -1830442764567480195
+      CASR-Photoroom_83: -2087855443973759639
+      CASR-Photoroom_84: -901589283003647352
+      CASR-Photoroom_85: 5145860450286756977
+      CASR-Photoroom_86: -4173794759552364507
+      CASR-Photoroom_87: -4483122315570807730
+      CASR-Photoroom_88: 3433650070866383152
+      CASR-Photoroom_89: -127380167262598584
+      CASR-Photoroom_9: 1927998148622186436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
