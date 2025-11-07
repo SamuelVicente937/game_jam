@@ -1,0 +1,2427 @@
+fileFormatVersion: 2
+guid: 1f2c7ace2adbf4641810c12201c99c3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1604590726903904166
+    second: EEE (1)_0
+  - first:
+      213: -6908561818937268348
+    second: EEE (1)_1
+  - first:
+      213: -9118216353535850584
+    second: EEE (1)_2
+  - first:
+      213: -4939956734373351104
+    second: EEE (1)_3
+  - first:
+      213: -8777653191856984881
+    second: EEE (1)_4
+  - first:
+      213: -6719845440985715291
+    second: EEE (1)_5
+  - first:
+      213: 9101163047292288734
+    second: EEE (1)_6
+  - first:
+      213: -4427949519567362599
+    second: EEE (1)_7
+  - first:
+      213: 5330809301615894244
+    second: EEE (1)_8
+  - first:
+      213: -3399248658956601119
+    second: EEE (1)_9
+  - first:
+      213: 4274595816369197681
+    second: EEE (1)_10
+  - first:
+      213: 7273660948564953405
+    second: EEE (1)_11
+  - first:
+      213: -7479547443113318491
+    second: EEE (1)_12
+  - first:
+      213: -1881938330579792959
+    second: EEE (1)_13
+  - first:
+      213: 6339478025450399632
+    second: EEE (1)_14
+  - first:
+      213: -8831655831147724545
+    second: EEE (1)_15
+  - first:
+      213: -5573821246070333959
+    second: EEE (1)_16
+  - first:
+      213: 8581380673844067234
+    second: EEE (1)_17
+  - first:
+      213: 6348166576869314863
+    second: EEE (1)_18
+  - first:
+      213: -5703806293990368792
+    second: EEE (1)_19
+  - first:
+      213: -2322312192647245067
+    second: EEE (1)_20
+  - first:
+      213: -1311543092980681203
+    second: EEE (1)_21
+  - first:
+      213: 4007460607072338221
+    second: EEE (1)_22
+  - first:
+      213: -2003757968369346576
+    second: EEE (1)_23
+  - first:
+      213: 6582307264828955564
+    second: EEE (1)_24
+  - first:
+      213: 2194880825731258694
+    second: EEE (1)_25
+  - first:
+      213: -7482298059472608262
+    second: EEE (1)_26
+  - first:
+      213: -6237086432729619640
+    second: EEE (1)_27
+  - first:
+      213: 8691824324209561556
+    second: EEE (1)_28
+  - first:
+      213: -5511408521341459075
+    second: EEE (1)_29
+  - first:
+      213: -9154797989026223912
+    second: EEE (1)_30
+  - first:
+      213: -7517364034973326304
+    second: EEE (1)_31
+  - first:
+      213: -157770815494875435
+    second: EEE (1)_32
+  - first:
+      213: 5557824756584639580
+    second: EEE (1)_33
+  - first:
+      213: -2701458966072968156
+    second: EEE (1)_34
+  - first:
+      213: -7076163841220524888
+    second: EEE (1)_35
+  - first:
+      213: -228153392993416170
+    second: EEE (1)_36
+  - first:
+      213: -6268607134027747462
+    second: EEE (1)_37
+  - first:
+      213: -8034791018174496402
+    second: EEE (1)_38
+  - first:
+      213: 7956062881998905701
+    second: EEE (1)_39
+  - first:
+      213: 6913866431462228028
+    second: EEE (1)_40
+  - first:
+      213: 8602777415089630884
+    second: EEE (1)_41
+  - first:
+      213: -5417222987770845949
+    second: EEE (1)_42
+  - first:
+      213: 4799587103357878674
+    second: EEE (1)_43
+  - first:
+      213: -1480986137796945910
+    second: EEE (1)_44
+  - first:
+      213: -3527967853018887040
+    second: EEE (1)_45
+  - first:
+      213: 2121689596105610457
+    second: EEE (1)_46
+  - first:
+      213: -5205916358660569548
+    second: EEE (1)_47
+  - first:
+      213: -6858168448378844402
+    second: EEE (1)_48
+  - first:
+      213: 380316806244000772
+    second: EEE (1)_49
+  - first:
+      213: 2586152841255646259
+    second: EEE (1)_50
+  - first:
+      213: 493727858715477729
+    second: EEE (1)_51
+  - first:
+      213: -129029612270011815
+    second: EEE (1)_52
+  - first:
+      213: 8519423219526104314
+    second: EEE (1)_53
+  - first:
+      213: 8876141731301825370
+    second: EEE (1)_54
+  - first:
+      213: 6330658812465895537
+    second: EEE (1)_55
+  - first:
+      213: -9153693983085653511
+    second: EEE (1)_56
+  - first:
+      213: -8806830154098743553
+    second: EEE (1)_57
+  - first:
+      213: 3379342699600042638
+    second: EEE (1)_58
+  - first:
+      213: -5803389095955803914
+    second: EEE (1)_59
+  - first:
+      213: 3853470509810275435
+    second: EEE (1)_60
+  - first:
+      213: 3832850615415158559
+    second: EEE (1)_61
+  - first:
+      213: 338555888127412556
+    second: EEE (1)_62
+  - first:
+      213: -5293485774761653402
+    second: EEE (1)_63
+  - first:
+      213: 7385314509881817369
+    second: EEE (1)_64
+  - first:
+      213: -3222119413331358820
+    second: EEE (1)_65
+  - first:
+      213: 8077036258163030722
+    second: EEE (1)_66
+  - first:
+      213: -4678726310729525080
+    second: EEE (1)_67
+  - first:
+      213: -4983093730246344194
+    second: EEE (1)_68
+  - first:
+      213: -6291135934604885200
+    second: EEE (1)_69
+  - first:
+      213: 3163240650243343821
+    second: EEE (1)_70
+  - first:
+      213: -8007159282465622720
+    second: EEE (1)_71
+  - first:
+      213: 3582445653298840800
+    second: EEE (1)_72
+  - first:
+      213: -1785715877515042115
+    second: EEE (1)_73
+  - first:
+      213: -8866616268089711640
+    second: EEE (1)_74
+  - first:
+      213: -8435579480551437523
+    second: EEE (1)_75
+  - first:
+      213: 8969569738175669993
+    second: EEE (1)_76
+  - first:
+      213: -4105123117915813297
+    second: EEE (1)_77
+  - first:
+      213: 3255590379691791429
+    second: EEE (1)_78
+  - first:
+      213: 3539412966989519640
+    second: EEE (1)_79
+  - first:
+      213: -4065796282157592358
+    second: EEE (1)_80
+  - first:
+      213: 5561279931785428044
+    second: EEE (1)_81
+  - first:
+      213: -2166810066520841901
+    second: EEE (1)_82
+  - first:
+      213: -6874016991273448535
+    second: EEE (1)_83
+  - first:
+      213: 2446332420954667996
+    second: EEE (1)_84
+  - first:
+      213: -3099588275556034930
+    second: EEE (1)_85
+  - first:
+      213: 7018112271739769788
+    second: EEE (1)_86
+  - first:
+      213: 3884231262945763364
+    second: EEE (1)_87
+  - first:
+      213: -4901997626398050635
+    second: EEE (1)_88
+  - first:
+      213: 1109205218814640855
+    second: EEE (1)_89
+  - first:
+      213: 5530795151774940778
+    second: EEE (1)_90
+  - first:
+      213: 5065339885918736464
+    second: EEE (1)_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EEE (1)_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 931
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c1014c395bb9e0800000000000000
+      internalID: -1604590726903904166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 931
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487ea69f0abdf10a0800000000000000
+      internalID: -6908561818937268348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 930
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7865e6986957180800000000000000
+      internalID: -9118216353535850584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 932
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b0e9e58fb17bb0800000000000000
+      internalID: -4939956734373351104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 930
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc6ac19de28f2680800000000000000
+      internalID: -8777653191856984881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 932
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada488bc205eb2a0800000000000000
+      internalID: -6719845440985715291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 930
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb4cc4293dd4e70800000000000000
+      internalID: 9101163047292288734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 932
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d563da4f53cc82c0800000000000000
+      internalID: -4427949519567362599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 932
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eed924e0d6daf940800000000000000
+      internalID: 5330809301615894244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 819
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e83babca5173d0d0800000000000000
+      internalID: -3399248658956601119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 819
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1729e094f3a625b30800000000000000
+      internalID: 4274595816369197681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 819
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3948df581c31f460800000000000000
+      internalID: 7273660948564953405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 819
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7ac849a3f433890800000000000000
+      internalID: -7479547443113318491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 819
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb899c2f0302e5e0800000000000000
+      internalID: -1881938330579792959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 818
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ad581da95af750800000000000000
+      internalID: 6339478025450399632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_15
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 819
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0ceed40d7af6580800000000000000
+      internalID: -8831655831147724545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_16
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 819
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd37aab1fc5a2b0800000000000000
+      internalID: -5573821246070333959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_17
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 819
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abb0eab140371770800000000000000
+      internalID: 8581380673844067234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 706
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219d4d1ed7391850800000000000000
+      internalID: 6348166576869314863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 711
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9111b456208d0b0800000000000000
+      internalID: -5703806293990368792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 714
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d3bb6d5d75cfd0800000000000000
+      internalID: -2322312192647245067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 707
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06f44b71867ccde0800000000000000
+      internalID: -1311543092980681203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 706
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d210bef803c5d9730800000000000000
+      internalID: 4007460607072338221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 705
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f79c7f7eb83134e0800000000000000
+      internalID: -2003757968369346576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_24
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 705
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab5a92359d095b50800000000000000
+      internalID: 6582307264828955564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_25
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 714
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64917066b78c57e10800000000000000
+      internalID: 2194880825731258694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_26
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 714
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af36a8dce89892890800000000000000
+      internalID: -7482298059472608262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 603
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8432eb75fea6179a0800000000000000
+      internalID: -6237086432729619640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 603
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df4c9eeb209f9870800000000000000
+      internalID: 8691824324209561556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 603
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75a169862b8383b0800000000000000
+      internalID: -5511408521341459075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_30
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 602
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8a1a1bbbf93f080800000000000000
+      internalID: -9154797989026223912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_31
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 602
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0242e182d35fca790800000000000000
+      internalID: -7517364034973326304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_32
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 606
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6118a774c7fcdf0800000000000000
+      internalID: -157770815494875435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 604
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c69146b2c512d40800000000000000
+      internalID: 5557824756584639580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_34
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 603
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3def126d728ad0800000000000000
+      internalID: -2701458966072968156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_35
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 604
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4469f3a7a6ccd90800000000000000
+      internalID: -7076163841220524888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 498
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cc358a2bf65dcf0800000000000000
+      internalID: -228153392993416170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 498
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7febcb260f6109a0800000000000000
+      internalID: -6268607134027747462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 498
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61c53d9320be7090800000000000000
+      internalID: -8034791018174496402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 499
+        width: 99
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5612734c90d996e60800000000000000
+      internalID: 7956062881998905701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 498
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30cdcf53ecf2ff50800000000000000
+      internalID: 6913866431462228028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_41
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 498
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeab24ca74336770800000000000000
+      internalID: 8602777415089630884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_42
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 542
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a6d0f46822d4b0800000000000000
+      internalID: -5417222987770845949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 499
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291413c8a0f8b9240800000000000000
+      internalID: 4799587103357878674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_44
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 500
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08d55b44fa727be0800000000000000
+      internalID: -1480986137796945910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_45
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 502
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ccfcdfde32a0fc0800000000000000
+      internalID: -3527967853018887040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_46
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 102
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4548b4271c17d10800000000000000
+      internalID: 2121689596105610457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 101
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43644a767aed0c7b0800000000000000
+      internalID: -5205916358660569548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 383
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4690e124e2d0a0800000000000000
+      internalID: -6858168448378844402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 383
+        width: 100
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404e84ace18274500800000000000000
+      internalID: 380316806244000772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_50
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 383
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f8ed9e4cd3e320800000000000000
+      internalID: 2586152841255646259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 373
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e643722fd21ad600800000000000000
+      internalID: 493727858715477729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_52
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 373
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab3235048953ef0800000000000000
+      internalID: -129029612270011815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_53
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 422
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af47113c7421b3670800000000000000
+      internalID: 8519423219526104314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_54
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 428
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b144670e36e2b70800000000000000
+      internalID: 8876141731301825370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_55
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 373
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178d93f06a40bd750800000000000000
+      internalID: 6330658812465895537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_56
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 373
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f19c8b12db87f080800000000000000
+      internalID: -9153693983085653511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_57
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 263
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6eebba2aad7c580800000000000000
+      internalID: -8806830154098743553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 267
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a58ffd746d5ee20800000000000000
+      internalID: 3379342699600042638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 268
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0dd2a6d58367fa0800000000000000
+      internalID: -5803389095955803914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_60
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 265
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b645fa913074a7530800000000000000
+      internalID: 3853470509810275435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_61
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 304
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1735f0d355013530800000000000000
+      internalID: 3832850615415158559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 307
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49837859cac2b400800000000000000
+      internalID: 338555888127412556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_63
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 304
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b8fb3ebb2c986b0800000000000000
+      internalID: -5293485774761653402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_64
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 265
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9193b0cea68ed7660800000000000000
+      internalID: 7385314509881817369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_65
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 314
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b8e70177bb843d0800000000000000
+      internalID: -3222119413331358820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_66
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caf1cdcea5671070800000000000000
+      internalID: 8077036258163030722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_67
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 256
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a851b79533d11fb0800000000000000
+      internalID: -4678726310729525080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_68
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 256
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1c03667ae78dab0800000000000000
+      internalID: -4983093730246344194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_69
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 256
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0334e28033561b8a0800000000000000
+      internalID: -6291135934604885200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 186
+        width: 98
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc584d0ac9616eb20800000000000000
+      internalID: 3163240650243343821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 146
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0453aac6e0bd0e090800000000000000
+      internalID: -8007159282465622720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_72
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 147
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e40500575767b130800000000000000
+      internalID: 3582445653298840800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_73
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 150
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2e0fadedcd737e0800000000000000
+      internalID: -1785715877515042115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_74
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 185
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e320d44b7373f480800000000000000
+      internalID: -8866616268089711640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 139
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b4823f72dceea80800000000000000
+      internalID: -8435579480551437523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 139
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6ed0077205a7c70800000000000000
+      internalID: 8969569738175669993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_77
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 139
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a426d264ca707c0800000000000000
+      internalID: -4105123117915813297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_78
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 200
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54455b3933e2e2d20800000000000000
+      internalID: 3255590379691791429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_79
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 139
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b52d247558e1130800000000000000
+      internalID: 3539412966989519640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_80
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 139
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad094e8a2d36397c0800000000000000
+      internalID: -4065796282157592358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_81
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 139
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c349e02a2ad2d40800000000000000
+      internalID: 5561279931785428044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_82
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 26
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351e84989b1fde1e0800000000000000
+      internalID: -2166810066520841901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_83
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 26
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab852f67f59a90a0800000000000000
+      internalID: -6874016991273448535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_84
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 33
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb3689206e13f120800000000000000
+      internalID: 2446332420954667996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_85
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 22
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86548db2ec0cf4d0800000000000000
+      internalID: -3099588275556034930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_86
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 22
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3dbd67de7556160800000000000000
+      internalID: 7018112271739769788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_87
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 74
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420695d01cf87e530800000000000000
+      internalID: 3884231262945763364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_88
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 22
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b67cb4712b98fbb0800000000000000
+      internalID: -4901997626398050635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_89
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 21
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c47a0540b46f00800000000000000
+      internalID: 1109205218814640855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_90
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 23
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e7ffa13e451cc40800000000000000
+      internalID: 5530795151774940778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EEE (1)_91
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 22
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050ddc6f9c3bb4640800000000000000
+      internalID: 5065339885918736464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EEE (1)_0: -1604590726903904166
+      EEE (1)_1: -6908561818937268348
+      EEE (1)_10: 4274595816369197681
+      EEE (1)_11: 7273660948564953405
+      EEE (1)_12: -7479547443113318491
+      EEE (1)_13: -1881938330579792959
+      EEE (1)_14: 6339478025450399632
+      EEE (1)_15: -8831655831147724545
+      EEE (1)_16: -5573821246070333959
+      EEE (1)_17: 8581380673844067234
+      EEE (1)_18: 6348166576869314863
+      EEE (1)_19: -5703806293990368792
+      EEE (1)_2: -9118216353535850584
+      EEE (1)_20: -2322312192647245067
+      EEE (1)_21: -1311543092980681203
+      EEE (1)_22: 4007460607072338221
+      EEE (1)_23: -2003757968369346576
+      EEE (1)_24: 6582307264828955564
+      EEE (1)_25: 2194880825731258694
+      EEE (1)_26: -7482298059472608262
+      EEE (1)_27: -6237086432729619640
+      EEE (1)_28: 8691824324209561556
+      EEE (1)_29: -5511408521341459075
+      EEE (1)_3: -4939956734373351104
+      EEE (1)_30: -9154797989026223912
+      EEE (1)_31: -7517364034973326304
+      EEE (1)_32: -157770815494875435
+      EEE (1)_33: 5557824756584639580
+      EEE (1)_34: -2701458966072968156
+      EEE (1)_35: -7076163841220524888
+      EEE (1)_36: -228153392993416170
+      EEE (1)_37: -6268607134027747462
+      EEE (1)_38: -8034791018174496402
+      EEE (1)_39: 7956062881998905701
+      EEE (1)_4: -8777653191856984881
+      EEE (1)_40: 6913866431462228028
+      EEE (1)_41: 8602777415089630884
+      EEE (1)_42: -5417222987770845949
+      EEE (1)_43: 4799587103357878674
+      EEE (1)_44: -1480986137796945910
+      EEE (1)_45: -3527967853018887040
+      EEE (1)_46: 2121689596105610457
+      EEE (1)_47: -5205916358660569548
+      EEE (1)_48: -6858168448378844402
+      EEE (1)_49: 380316806244000772
+      EEE (1)_5: -6719845440985715291
+      EEE (1)_50: 2586152841255646259
+      EEE (1)_51: 493727858715477729
+      EEE (1)_52: -129029612270011815
+      EEE (1)_53: 8519423219526104314
+      EEE (1)_54: 8876141731301825370
+      EEE (1)_55: 6330658812465895537
+      EEE (1)_56: -9153693983085653511
+      EEE (1)_57: -8806830154098743553
+      EEE (1)_58: 3379342699600042638
+      EEE (1)_59: -5803389095955803914
+      EEE (1)_6: 9101163047292288734
+      EEE (1)_60: 3853470509810275435
+      EEE (1)_61: 3832850615415158559
+      EEE (1)_62: 338555888127412556
+      EEE (1)_63: -5293485774761653402
+      EEE (1)_64: 7385314509881817369
+      EEE (1)_65: -3222119413331358820
+      EEE (1)_66: 8077036258163030722
+      EEE (1)_67: -4678726310729525080
+      EEE (1)_68: -4983093730246344194
+      EEE (1)_69: -6291135934604885200
+      EEE (1)_7: -4427949519567362599
+      EEE (1)_70: 3163240650243343821
+      EEE (1)_71: -8007159282465622720
+      EEE (1)_72: 3582445653298840800
+      EEE (1)_73: -1785715877515042115
+      EEE (1)_74: -8866616268089711640
+      EEE (1)_75: -8435579480551437523
+      EEE (1)_76: 8969569738175669993
+      EEE (1)_77: -4105123117915813297
+      EEE (1)_78: 3255590379691791429
+      EEE (1)_79: 3539412966989519640
+      EEE (1)_8: 5330809301615894244
+      EEE (1)_80: -4065796282157592358
+      EEE (1)_81: 5561279931785428044
+      EEE (1)_82: -2166810066520841901
+      EEE (1)_83: -6874016991273448535
+      EEE (1)_84: 2446332420954667996
+      EEE (1)_85: -3099588275556034930
+      EEE (1)_86: 7018112271739769788
+      EEE (1)_87: 3884231262945763364
+      EEE (1)_88: -4901997626398050635
+      EEE (1)_89: 1109205218814640855
+      EEE (1)_9: -3399248658956601119
+      EEE (1)_90: 5530795151774940778
+      EEE (1)_91: 5065339885918736464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

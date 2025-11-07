@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 5ff696b75e364e2489944c50cd44837a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3661847989017650450
+    second: cloudss (1)_0
+  - first:
+      213: -6345563264813818684
+    second: cloudss (1)_1
+  - first:
+      213: -1275810894591120714
+    second: cloudss (1)_2
+  - first:
+      213: -1570979276249746180
+    second: cloudss (1)_3
+  - first:
+      213: -3004482776774414503
+    second: cloudss (1)_4
+  - first:
+      213: 2250725742871589846
+    second: cloudss (1)_5
+  - first:
+      213: -8188222344761419633
+    second: cloudss (1)_6
+  - first:
+      213: -8422618209654084516
+    second: cloudss (1)_7
+  - first:
+      213: -2698838142954910317
+    second: cloudss (1)_8
+  - first:
+      213: -8545187003401801840
+    second: cloudss (1)_9
+  - first:
+      213: 474555980909428822
+    second: cloudss (1)_10
+  - first:
+      213: -6060886715394499011
+    second: cloudss (1)_11
+  - first:
+      213: 6878385101892025892
+    second: cloudss (1)_12
+  - first:
+      213: -2923474633238658041
+    second: cloudss (1)_13
+  - first:
+      213: -7895441788727190870
+    second: cloudss (1)_14
+  - first:
+      213: -3603846196513380226
+    second: cloudss (1)_15
+  - first:
+      213: -8845162672960234998
+    second: cloudss (1)_16
+  - first:
+      213: 2915260546581051174
+    second: cloudss (1)_17
+  - first:
+      213: -940662664207712030
+    second: cloudss (1)_18
+  - first:
+      213: 490490480833857560
+    second: cloudss (1)_19
+  - first:
+      213: 7002850512077610134
+    second: cloudss (1)_20
+  - first:
+      213: -2624145175163980238
+    second: cloudss (1)_21
+  - first:
+      213: 4863843152111767631
+    second: cloudss (1)_22
+  - first:
+      213: 7370980734507785885
+    second: cloudss (1)_23
+  - first:
+      213: -7795901237083264704
+    second: cloudss (1)_24
+  - first:
+      213: -8359814792251623334
+    second: cloudss (1)_25
+  - first:
+      213: 6751755238394686946
+    second: cloudss (1)_26
+  - first:
+      213: 6512986525801114579
+    second: cloudss (1)_27
+  - first:
+      213: -2977222962408977683
+    second: cloudss (1)_28
+  - first:
+      213: 2430545012531264073
+    second: cloudss (1)_29
+  - first:
+      213: 6774653138707122137
+    second: cloudss (1)_30
+  - first:
+      213: -1267572159347374760
+    second: cloudss (1)_31
+  - first:
+      213: -7632195650883101356
+    second: cloudss (1)_32
+  - first:
+      213: 8087770338737579705
+    second: cloudss (1)_33
+  - first:
+      213: -1816570097967483629
+    second: cloudss (1)_34
+  - first:
+      213: 8521976732275378425
+    second: cloudss (1)_35
+  - first:
+      213: -8878211072337318348
+    second: cloudss (1)_36
+  - first:
+      213: 5611173154861055213
+    second: cloudss (1)_37
+  - first:
+      213: 2082741558058674231
+    second: cloudss (1)_38
+  - first:
+      213: 1525035024076274394
+    second: cloudss (1)_39
+  - first:
+      213: 5169298350587922659
+    second: cloudss (1)_40
+  - first:
+      213: -3703316443762518784
+    second: cloudss (1)_41
+  - first:
+      213: 941335071809975428
+    second: cloudss (1)_42
+  - first:
+      213: 1204327289739658790
+    second: cloudss (1)_43
+  - first:
+      213: 578479679291347249
+    second: cloudss (1)_44
+  - first:
+      213: 7723941935263787583
+    second: cloudss (1)_45
+  - first:
+      213: -4682158978696265173
+    second: cloudss (1)_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloudss (1)_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 923
+        width: 142
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeadf11c7a08e2dc0800000000000000
+      internalID: -3661847989017650450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 922
+        width: 142
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1105b4d700f7a0800000000000000
+      internalID: -6345563264813818684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 923
+        width: 144
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa25b30c86b4ee0800000000000000
+      internalID: -1275810894591120714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 919
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf432a1fba2c23ae0800000000000000
+      internalID: -1570979276249746180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 860
+        width: 192
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe49c35deed46d0800000000000000
+      internalID: -3004482776774414503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 826
+        width: 141
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d330b6632f2c3f10800000000000000
+      internalID: 2250725742871589846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 826
+        width: 138
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88549619279d5e80800000000000000
+      internalID: -8188222344761419633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 826
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ce4defc59dc1b80800000000000000
+      internalID: -8422618209654084516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 826
+        width: 139
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dc5ee020dcb8ad0800000000000000
+      internalID: -2698838142954910317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 735
+        width: 109
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f63fad1b5696980800000000000000
+      internalID: -8545187003401801840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 735
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650c42c7626f59600800000000000000
+      internalID: 474555980909428822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 735
+        width: 141
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ed601f4a763eba0800000000000000
+      internalID: -6060886715394499011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 738
+        width: 142
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42efc929ecee47f50800000000000000
+      internalID: 6878385101892025892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_13
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 758
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704c1ff6f4bbd67d0800000000000000
+      internalID: -2923474633238658041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 740
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa14266681cd6290800000000000000
+      internalID: -7895441788727190870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 713
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786daf6af09cfdc0800000000000000
+      internalID: -3603846196513380226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 720
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a19a1a96baf3580800000000000000
+      internalID: -8845162672960234998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 636
+        width: 148
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627bcaa7506157820800000000000000
+      internalID: 2915260546581051174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 633
+        width: 129
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e04d6e6a4812f2f0800000000000000
+      internalID: -940662664207712030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 636
+        width: 148
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81800db5e729ec600800000000000000
+      internalID: 490490480833857560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_20
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 650
+        width: 151
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c5c83207f1f2160800000000000000
+      internalID: 7002850512077610134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_21
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 651
+        width: 140
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236bb43ddd9259bd0800000000000000
+      internalID: -2624145175163980238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 532
+        width: 130
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4096dcb397df7340800000000000000
+      internalID: 4863843152111767631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 534
+        width: 124
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e9596ccebfa4660800000000000000
+      internalID: 7370980734507785885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 535
+        width: 142
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049af9b11256fc390800000000000000
+      internalID: -7795901237083264704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_25
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 548
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5839c71db8fbfb80800000000000000
+      internalID: -8359814792251623334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_26
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 531
+        width: 128
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede5e2fd9d03bd50800000000000000
+      internalID: 6751755238394686946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 433
+        width: 135
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe749ecb6c26a50800000000000000
+      internalID: 6512986525801114579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 412
+        width: 137
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea0a7c5d77cea6d0800000000000000
+      internalID: -2977222962408977683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 409
+        width: 158
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94af582bfc70bb120800000000000000
+      internalID: 2430545012531264073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_30
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 419
+        width: 134
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d78f11d227640e50800000000000000
+      internalID: 6774653138707122137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_31
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 419
+        width: 139
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855cce246dda86ee0800000000000000
+      internalID: -1267572159347374760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 325
+        width: 134
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dd4dc1e7ef41690800000000000000
+      internalID: -7632195650883101356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 308
+        width: 153
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6e461b5488d3070800000000000000
+      internalID: 8087770338737579705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 281
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3153d09de1f3ac6e0800000000000000
+      internalID: -1816570097967483629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_35
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 284
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f80b67cfa4244670800000000000000
+      internalID: 8521976732275378425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_36
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 297
+        width: 125
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee46881124ac480800000000000000
+      internalID: -8878211072337318348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 184
+        width: 165
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec73bc4144eedd40800000000000000
+      internalID: 5611173154861055213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 181
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738e707896267ec10800000000000000
+      internalID: 2082741558058674231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 178
+        width: 107
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada781046430a2510800000000000000
+      internalID: 1525035024076274394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_40
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 155
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e84ec436790db740800000000000000
+      internalID: 5169298350587922659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_41
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 165
+        width: 166
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0051caeb05d2b9cc0800000000000000
+      internalID: -3703316443762518784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 181
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484b9d9a24b401d00800000000000000
+      internalID: 941335071809975428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_43
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 25
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626cd3a0a41a6b010800000000000000
+      internalID: 1204327289739658790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_44
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 25
+        width: 151
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13151f1143c270800800000000000000
+      internalID: 578479679291347249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_45
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 24
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a24255444f03b60800000000000000
+      internalID: 7723941935263787583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudss (1)_46
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 24
+        width: 169
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2247ec4731a50fb0800000000000000
+      internalID: -4682158978696265173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cloudss (1)_0: -3661847989017650450
+      cloudss (1)_1: -6345563264813818684
+      cloudss (1)_10: 474555980909428822
+      cloudss (1)_11: -6060886715394499011
+      cloudss (1)_12: 6878385101892025892
+      cloudss (1)_13: -2923474633238658041
+      cloudss (1)_14: -7895441788727190870
+      cloudss (1)_15: -3603846196513380226
+      cloudss (1)_16: -8845162672960234998
+      cloudss (1)_17: 2915260546581051174
+      cloudss (1)_18: -940662664207712030
+      cloudss (1)_19: 490490480833857560
+      cloudss (1)_2: -1275810894591120714
+      cloudss (1)_20: 7002850512077610134
+      cloudss (1)_21: -2624145175163980238
+      cloudss (1)_22: 4863843152111767631
+      cloudss (1)_23: 7370980734507785885
+      cloudss (1)_24: -7795901237083264704
+      cloudss (1)_25: -8359814792251623334
+      cloudss (1)_26: 6751755238394686946
+      cloudss (1)_27: 6512986525801114579
+      cloudss (1)_28: -2977222962408977683
+      cloudss (1)_29: 2430545012531264073
+      cloudss (1)_3: -1570979276249746180
+      cloudss (1)_30: 6774653138707122137
+      cloudss (1)_31: -1267572159347374760
+      cloudss (1)_32: -7632195650883101356
+      cloudss (1)_33: 8087770338737579705
+      cloudss (1)_34: -1816570097967483629
+      cloudss (1)_35: 8521976732275378425
+      cloudss (1)_36: -8878211072337318348
+      cloudss (1)_37: 5611173154861055213
+      cloudss (1)_38: 2082741558058674231
+      cloudss (1)_39: 1525035024076274394
+      cloudss (1)_4: -3004482776774414503
+      cloudss (1)_40: 5169298350587922659
+      cloudss (1)_41: -3703316443762518784
+      cloudss (1)_42: 941335071809975428
+      cloudss (1)_43: 1204327289739658790
+      cloudss (1)_44: 578479679291347249
+      cloudss (1)_45: 7723941935263787583
+      cloudss (1)_46: -4682158978696265173
+      cloudss (1)_5: 2250725742871589846
+      cloudss (1)_6: -8188222344761419633
+      cloudss (1)_7: -8422618209654084516
+      cloudss (1)_8: -2698838142954910317
+      cloudss (1)_9: -8545187003401801840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

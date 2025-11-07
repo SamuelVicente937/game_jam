@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: ac4c09853e2a2f340a0d4fe23e718bdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6411214368337876126
+    second: o eso (1)_0
+  - first:
+      213: -2846208652941615753
+    second: o eso (1)_1
+  - first:
+      213: -5908515892831368328
+    second: o eso (1)_2
+  - first:
+      213: 8592131059410842632
+    second: o eso (1)_3
+  - first:
+      213: 5009274374008879791
+    second: o eso (1)_4
+  - first:
+      213: 638813802163318985
+    second: o eso (1)_5
+  - first:
+      213: 7379214826430766244
+    second: o eso (1)_6
+  - first:
+      213: -1329864115069213429
+    second: o eso (1)_7
+  - first:
+      213: 877849286007200042
+    second: o eso (1)_8
+  - first:
+      213: -6813847257208947305
+    second: o eso (1)_9
+  - first:
+      213: -1046775234958060271
+    second: o eso (1)_10
+  - first:
+      213: -8161507939086014095
+    second: o eso (1)_11
+  - first:
+      213: -2120104215555433449
+    second: o eso (1)_12
+  - first:
+      213: -5935725334314286896
+    second: o eso (1)_13
+  - first:
+      213: 6091705412079138858
+    second: o eso (1)_14
+  - first:
+      213: 7460550725691409244
+    second: o eso (1)_15
+  - first:
+      213: -5668179287213206742
+    second: o eso (1)_16
+  - first:
+      213: 555836856085612887
+    second: o eso (1)_17
+  - first:
+      213: -3883064178406926793
+    second: o eso (1)_18
+  - first:
+      213: 2989665258795752395
+    second: o eso (1)_19
+  - first:
+      213: -1147070991190920677
+    second: o eso (1)_20
+  - first:
+      213: 3138256219208988774
+    second: o eso (1)_21
+  - first:
+      213: 241220925593983603
+    second: o eso (1)_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: o eso (1)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 845
+        width: 154
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d8abff7539f850800000000000000
+      internalID: 6411214368337876126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 845
+        width: 151
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d95cc5f4c3088d0800000000000000
+      internalID: -2846208652941615753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 837
+        width: 212
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b4902a91cb00ea0800000000000000
+      internalID: -5908515892831368328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 845
+        width: 151
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804b8cbeca16d3770800000000000000
+      internalID: 8592131059410842632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 845
+        width: 152
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa344db084848540800000000000000
+      internalID: 5009274374008879791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 630
+        width: 172
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0bf8bb4c58dd800800000000000000
+      internalID: 638813802163318985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 618
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac93b2b9cc386660800000000000000
+      internalID: 7379214826430766244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 665
+        width: 293
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a2cd12af5b8de0800000000000000
+      internalID: -1329864115069213429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 697
+        width: 166
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a291aca464fbe2c00800000000000000
+      internalID: 877849286007200042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 447
+        width: 291
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7a48550a5071a0800000000000000
+      internalID: -6813847257208947305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 447
+        width: 260
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11516a8487b1971f0800000000000000
+      internalID: -1046775234958060271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_11
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 443
+        width: 169
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1796f3b55cf7cbe80800000000000000
+      internalID: -8161507939086014095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 521
+        width: 180
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c9201e270e392e0800000000000000
+      internalID: -2120104215555433449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 222
+        width: 260
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d009ebd14110ada0800000000000000
+      internalID: -5935725334314286896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 347
+        width: 339
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a283d4b0cc51a8450800000000000000
+      internalID: 6091705412079138858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 215
+        width: 230
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c538e997b53398760800000000000000
+      internalID: 7460550725691409244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_16
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 339
+        width: 182
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a231e6638f49651b0800000000000000
+      internalID: -5668179287213206742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 213
+        width: 202
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7598d08fcaab6b700800000000000000
+      internalID: 555836856085612887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 209
+        width: 191
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736d20ef3b59c1ac0800000000000000
+      internalID: -3883064178406926793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 221
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbd8d386bc6d7920800000000000000
+      internalID: 2989665258795752395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10
+        width: 198
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12f8edc209c410f0800000000000000
+      internalID: -1147070991190920677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 14
+        width: 254
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bc1877635d8b20800000000000000
+      internalID: 3138256219208988774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o eso (1)_22
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 13
+        width: 261
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a9b6e572df85300800000000000000
+      internalID: 241220925593983603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f36922219e5f14143927f14d91f1f841
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      o eso (1)_0: 6411214368337876126
+      o eso (1)_1: -2846208652941615753
+      o eso (1)_10: -1046775234958060271
+      o eso (1)_11: -8161507939086014095
+      o eso (1)_12: -2120104215555433449
+      o eso (1)_13: -5935725334314286896
+      o eso (1)_14: 6091705412079138858
+      o eso (1)_15: 7460550725691409244
+      o eso (1)_16: -5668179287213206742
+      o eso (1)_17: 555836856085612887
+      o eso (1)_18: -3883064178406926793
+      o eso (1)_19: 2989665258795752395
+      o eso (1)_2: -5908515892831368328
+      o eso (1)_20: -1147070991190920677
+      o eso (1)_21: 3138256219208988774
+      o eso (1)_22: 241220925593983603
+      o eso (1)_3: 8592131059410842632
+      o eso (1)_4: 5009274374008879791
+      o eso (1)_5: 638813802163318985
+      o eso (1)_6: 7379214826430766244
+      o eso (1)_7: -1329864115069213429
+      o eso (1)_8: 877849286007200042
+      o eso (1)_9: -6813847257208947305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

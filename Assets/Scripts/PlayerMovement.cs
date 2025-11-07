@@ -5,6 +5,9 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 5f;
+    public int life = 3;
+
+
     public float jumpForce = 5f;
     public float reboundForce = 5f;
     private Rigidbody2D rb;
@@ -19,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
 
     private bool isHit;
     private bool isAttacking;
+    public bool isDead;
     private int jumpCount = 0;
     public int maxJumps = 2;
     void Start()
@@ -28,36 +32,41 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (!isAttacking)
+        if (!isDead)
         {
-            movement();
-        }
-        // detectar suelo
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, raycastLength, groundLayer);
-        isGrounded = hit.collider != null;
+            if (!isAttacking)
+            {
+                movement();
+            }
+            // detectar suelo
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, raycastLength, groundLayer);
+            isGrounded = hit.collider != null;
 
-        // solo resetea cuando pasa de no estar grounded a estar grounded
-        if (isGrounded && !wasGrounded)
-        {
-            jumpCount = 0;
+            // solo resetea cuando pasa de no estar grounded a estar grounded
+            if (isGrounded && !wasGrounded)
+            {
+                jumpCount = 0;
+            }
+
+            wasGrounded = isGrounded;
+
+            // salto
+            if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && !isHit)
+            {
+                rb.velocity = new Vector2(rb.velocity.x, 0f);
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+                jumpCount++;
+            }
+
+            if (Input.GetKeyDown(KeyCode.Z) && !isAttacking)
+            {
+                attack();
+            }
         }
 
-        wasGrounded = isGrounded;
 
-        // salto
-        if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && !isHit)
-        {
-            rb.velocity = new Vector2(rb.velocity.x, 0f); 
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            jumpCount++;
-        }
-
-        if (Input.GetKeyDown(KeyCode.Z) && !isAttacking)
-        {
-            attack();
-        }
         animations();
-     
+
     }
 
     public void movement()
@@ -92,10 +101,18 @@ public class PlayerMovement : MonoBehaviour
         if (!isHit)
         {
             isHit = true;
-            Vector2 rebound = ((Vector2)transform.position - direction).normalized;
-            rebound.y = 0.5f; // fuerza vertical
-            //rb.velocity = Vector2.zero; // opcional
-            rb.AddForce(rebound * reboundForce, ForceMode2D.Impulse);
+            life -= amountDamage;
+            if (life <= 0)
+            {
+                isDead = true;
+            }
+            if (!isDead)
+            {
+                Vector2 rebound = ((Vector2)transform.position - direction).normalized;
+                rebound.y = 0.5f; // fuerza vertical
+                                  //rb.velocity = Vector2.zero; // opcional
+                rb.AddForce(rebound * reboundForce, ForceMode2D.Impulse);
+            }
         }
     }
 
