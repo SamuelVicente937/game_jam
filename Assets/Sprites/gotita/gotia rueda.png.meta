@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: 31a6d1c89225c464c9840f4590a3363a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gotia rueda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7987.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181b73865dbbc748bf245a4cdadadd0
+      internalID: 1973723159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_1
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 7987.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb52703ce2226c54b824fea8c100f643
+      internalID: 625918305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_2
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 7987.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df74c0301aad20f459d2f24db805ccd4
+      internalID: -280417118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_3
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 7987.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c65e5780db15041a85b3dcf860574f
+      internalID: 2069082732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_4
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 7987.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912514379a7f4a5439a4b88ba5433c53
+      internalID: -1603662087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_5
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 7987.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862f3b449d051e4ba97005a7c35cae9
+      internalID: -424630788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_6
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 7987.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290ecd9952a154d4b8c28b74b696d251
+      internalID: 1293957891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_7
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 7987.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9219ca2a5e0a026489161317727b94d5
+      internalID: -1033043665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6846.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85d9172d022264fbbec59ef453b0d4
+      internalID: 2130391295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 6846.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f1dbf0139df84b8138ab25931ac05
+      internalID: -1174784412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_10
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 6846.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3efa6dd670155458bf230fd8ea4a9e
+      internalID: -1172420155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_11
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 6846.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de10a7a10bc87be4bb3dcaf847f91093
+      internalID: 1593337906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_12
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 6846.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66267ea52be74ac4d9315ca0472e6263
+      internalID: -2010371767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_13
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 6846.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b223bdfb5fd7e45b911f93f5e48eaf
+      internalID: -48544378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_14
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 6846.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2accb31438d5a44bb104c900cf1eb1
+      internalID: -1889797001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_15
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 6846.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf832d4adffc7347a74a028029b602d
+      internalID: 100567523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5705.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a99be235901fa4d9f7e3fc9e2c32ca
+      internalID: 1792722853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_17
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 5705.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f51522b68943148a85b65e3a3688db
+      internalID: 893578685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_18
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 5705.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ec02d85b032ca4fb17485c5aea5257
+      internalID: 533625270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_19
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 5705.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81758cf29289b44845b73b1b8af768
+      internalID: 60103724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_20
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 5705.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e89ec0ea2486c49832abd3434cca23
+      internalID: -146810798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_21
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 5705.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94885b498985e42b4de9ef4d2d1c65
+      internalID: -988369641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_22
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 5705.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e532b99937642846b25656ae3ec3069
+      internalID: -745004979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_23
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 5705.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114aee60c7a281046a16cf1dd856dcdb
+      internalID: 1620410370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4564.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f0d7019fbe17d4888edf810359645c
+      internalID: -321518608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_25
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4564.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c935c78e1048184080b622b5e1fef40
+      internalID: 1824878069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_26
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 4564.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6127da1df2f7f43970cb7d08a85c0b
+      internalID: 748679369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_27
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 4564.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff04ea9b1be55e4297251fe5b06310b
+      internalID: 1490942446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_28
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 4564.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eccb3beadc0964fa965834349506d2
+      internalID: 2049658064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_29
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 4564.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d70163b165534fa35ec8b81119a6f
+      internalID: -1781754941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_30
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 4564.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d814c2cc136cc40be7687a34b94e75
+      internalID: 2095401393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_31
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 4564.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0011756667552c74faaf207e7a477873
+      internalID: 2038654266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3423.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971dc4017b00a4a498f4eb8cb9576e1d
+      internalID: -1271648228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_33
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3423.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd1b94d0d53d24ca490c17250e995d
+      internalID: -1921077268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_34
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 3423.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78571c154f412e4790051a650436dab
+      internalID: 210466148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_35
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 3423.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69359e766d776e6449daae451e5a93c5
+      internalID: -146765075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_36
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 3423.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8852910cdb6ae6e41a6e82ca6fb7f741
+      internalID: -70120378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_37
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 3423.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68afaa654bbef6842a4cc05f42e3b1f4
+      internalID: -1255587724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_38
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 3423.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd4fae03d2467f4fbd0b256ff57dad0
+      internalID: 756527844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_39
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 3423.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c222c9a71d02b47876a1bb12030cc2
+      internalID: -1826342128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2282.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc05da48a794ba4fb6754c0f52424eb
+      internalID: 2062373944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_41
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2282.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41adb7429c4e5574badac487890d8d8c
+      internalID: 919961026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_42
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2282.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676be700339a254cb6c2c3b91510f92
+      internalID: 175174791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_43
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 2282.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d8b25fe5752af4890eb5fb53e7fea3
+      internalID: -730591323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_44
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 2282.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42967c5a9e47c4e8c2cf474df4f22e
+      internalID: -1665057188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_45
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 2282.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e20faa34fb25404f8521f3bdd4d023d
+      internalID: 467798522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_46
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 2282.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984c02ae1cec814d9ffe52c486a4319
+      internalID: -1018502764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_47
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 2282.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20053b0b998029849aaa17514681fd76
+      internalID: -61750190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1141.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e20808d1638dd4f8b727c1782fc051
+      internalID: -1072001117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_49
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1141.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8711f5694dd5bc744887444e71f34c9a
+      internalID: -1033559057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_50
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1141.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e0d4e3e31a4a5479cf891d945891d3
+      internalID: -2102158049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_51
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1141.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee9a24c69d170943919976099819292
+      internalID: 1945631909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_52
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1141.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49adfe98a0355540b62a7a55fcb8a46
+      internalID: -754361222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_53
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 1141.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb157b268203374090f15da513c43dc
+      internalID: -1080525242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_54
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 1141.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4286cf2f93bea9b4496b3ccffd2057b3
+      internalID: -1384108250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_55
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 1141.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a995a5b6cc8a64d83f7ae8c3d1e0e4
+      internalID: -284739161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de83eba9485f09447a98f29a2e0943df
+      internalID: 672700372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_57
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e61fc346f69764591285149adc8358
+      internalID: 1820571436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_58
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 0.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750958bf8e1171f478cbfd3945e4133e
+      internalID: 191313652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gotia rueda_59
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 0.875
+        width: 767.25
+        height: 1141.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15493eafa27a2c94a95d8e8375546b3b
+      internalID: -1760662326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gotia rueda_0: 1973723159
+      gotia rueda_1: 625918305
+      gotia rueda_10: -1172420155
+      gotia rueda_11: 1593337906
+      gotia rueda_12: -2010371767
+      gotia rueda_13: -48544378
+      gotia rueda_14: -1889797001
+      gotia rueda_15: 100567523
+      gotia rueda_16: 1792722853
+      gotia rueda_17: 893578685
+      gotia rueda_18: 533625270
+      gotia rueda_19: 60103724
+      gotia rueda_2: -280417118
+      gotia rueda_20: -146810798
+      gotia rueda_21: -988369641
+      gotia rueda_22: -745004979
+      gotia rueda_23: 1620410370
+      gotia rueda_24: -321518608
+      gotia rueda_25: 1824878069
+      gotia rueda_26: 748679369
+      gotia rueda_27: 1490942446
+      gotia rueda_28: 2049658064
+      gotia rueda_29: -1781754941
+      gotia rueda_3: 2069082732
+      gotia rueda_30: 2095401393
+      gotia rueda_31: 2038654266
+      gotia rueda_32: -1271648228
+      gotia rueda_33: -1921077268
+      gotia rueda_34: 210466148
+      gotia rueda_35: -146765075
+      gotia rueda_36: -70120378
+      gotia rueda_37: -1255587724
+      gotia rueda_38: 756527844
+      gotia rueda_39: -1826342128
+      gotia rueda_4: -1603662087
+      gotia rueda_40: 2062373944
+      gotia rueda_41: 919961026
+      gotia rueda_42: 175174791
+      gotia rueda_43: -730591323
+      gotia rueda_44: -1665057188
+      gotia rueda_45: 467798522
+      gotia rueda_46: -1018502764
+      gotia rueda_47: -61750190
+      gotia rueda_48: -1072001117
+      gotia rueda_49: -1033559057
+      gotia rueda_5: -424630788
+      gotia rueda_50: -2102158049
+      gotia rueda_51: 1945631909
+      gotia rueda_52: -754361222
+      gotia rueda_53: -1080525242
+      gotia rueda_54: -1384108250
+      gotia rueda_55: -284739161
+      gotia rueda_56: 672700372
+      gotia rueda_57: 1820571436
+      gotia rueda_58: 191313652
+      gotia rueda_59: -1760662326
+      gotia rueda_6: 1293957891
+      gotia rueda_7: -1033043665
+      gotia rueda_8: 2130391295
+      gotia rueda_9: -1174784412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

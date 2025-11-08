@@ -89,6 +89,7 @@ public class PlayerMovement : MonoBehaviour
         animator.SetBool("isGrounded", isGrounded);
         animator.SetBool("getDamage", isHit);
         animator.SetBool("isAttacking", isAttacking);
+        animator.SetBool("isDead", isDead);
     }
     //void FixedUpdate()
     //{

@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 1443aa64b79ff224fbd8f10c5fff4a26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1684
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac861330c4581240a4fc3ecae8341ed
+      internalID: -1628301056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1684
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9575e4b9c53d9b44eb6c7cb989b259f9
+      internalID: 931032167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1684
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dffc948de789743b341b3f95e72e12
+      internalID: 2002017021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1684
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c19993c2ae45f241bf4c9a1bc4e2a85
+      internalID: 493275067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1684
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ebc4b2a15b5c43a7364d9bf0f3d6c
+      internalID: 565818331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42746a82a2f66cf4582f19a96c9cfa58
+      internalID: -165289919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1263
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca0da2c9a25b0548a13061d0edaef55
+      internalID: 1369106368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1263
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c18b045bdd526846b9c005677580293
+      internalID: 2111302988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1263
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ca74ba4707804e990c94866fb3604
+      internalID: 1012084575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1263
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d51b31d06a50c47a86930240583810
+      internalID: 1599716649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e140440edf0f4e9c8a7884732df01
+      internalID: -71838373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 842
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5df521e5339e4c4bb7407e8ac2ce5aa
+      internalID: 216261932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 842
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462ab084149c204c92ba5063d2b241b
+      internalID: -879366775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 842
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7843e8dc3e7a34ebfc976990aa3dde
+      internalID: 357583619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 842
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a30900a29aafe43bf19b381aca41ed
+      internalID: 1640977243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3dbd4b8cdd5084fae43a77378c2500
+      internalID: 1621237137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 421
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f281d533b2d322f449cc70ef62d61647
+      internalID: 895231914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 421
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9d057322586745826b449207eb6a6
+      internalID: -2013091126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 421
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ca06e2f96a3204a939a0b4ffddc2a0
+      internalID: -955861448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 421
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acdd629bb226bf44adda44a5af7de72
+      internalID: -1573419667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906abab12f778bf4abd1d0cb69ebe8bb
+      internalID: -140301317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7a41a8c6d5844d807be3d933beb50
+      internalID: 1872383267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab038217602c74394b74a289e65ebb
+      internalID: 1702372122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3254eeda03d0f174e9c32e70dc0d2518
+      internalID: 2127588956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acercandoceelnpcmalo_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd1d509259cae4d8a6d4de17ce327b
+      internalID: -818647876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Acercandoceelnpcmalo_0: -1628301056
+      Acercandoceelnpcmalo_1: 931032167
+      Acercandoceelnpcmalo_10: -71838373
+      Acercandoceelnpcmalo_11: 216261932
+      Acercandoceelnpcmalo_12: -879366775
+      Acercandoceelnpcmalo_13: 357583619
+      Acercandoceelnpcmalo_14: 1640977243
+      Acercandoceelnpcmalo_15: 1621237137
+      Acercandoceelnpcmalo_16: 895231914
+      Acercandoceelnpcmalo_17: -2013091126
+      Acercandoceelnpcmalo_18: -955861448
+      Acercandoceelnpcmalo_19: -1573419667
+      Acercandoceelnpcmalo_2: 2002017021
+      Acercandoceelnpcmalo_20: -140301317
+      Acercandoceelnpcmalo_21: 1872383267
+      Acercandoceelnpcmalo_22: 1702372122
+      Acercandoceelnpcmalo_23: 2127588956
+      Acercandoceelnpcmalo_24: -818647876
+      Acercandoceelnpcmalo_3: 493275067
+      Acercandoceelnpcmalo_4: 565818331
+      Acercandoceelnpcmalo_5: -165289919
+      Acercandoceelnpcmalo_6: 1369106368
+      Acercandoceelnpcmalo_7: 2111302988
+      Acercandoceelnpcmalo_8: 1012084575
+      Acercandoceelnpcmalo_9: 1599716649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,23 +10,31 @@ public class EnemyController : MonoBehaviour
     public float reboundForce = 6f;
     private Rigidbody2D rb;
     private Vector2 movement;
-
+    private bool inMovement;
+    [SerializeField] private Animator animator;
+    [SerializeField] private SpriteRenderer spriteRenderer;
+    public int lifes = 2; 
     private bool playerAlive;
     private bool getDamage;
+
+    private bool isDead;
     // Start is called before the first frame update
     void Start()
     {
         playerAlive = true;
         rb = GetComponent<Rigidbody2D>();
+        //animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (playerAlive)
+        if (playerAlive && !isDead)
         {
             Movimiento();
         }
+        animator.SetBool("isMoving", inMovement);
+        animator.SetBool("isDead", isDead);
     }
 
     private void Movimiento()
@@ -37,13 +45,22 @@ public class EnemyController : MonoBehaviour
         {
             Vector2 direction = (player.position - transform.position).normalized;
 
+            if (direction.x > 0.1f)
+                spriteRenderer.flipX = false;
+            else if (direction.x < -0.1f)
+                spriteRenderer.flipX = true;
+
+
             movement = new Vector2(direction.x, 0);
+            inMovement = true;
         }
         else
         {
             movement = Vector2.zero;
+            inMovement = false;
         }
         if (!getDamage) rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
+
     }
     private void OnCollisionEnter2D(Collision2D other)
     {
@@ -53,24 +70,33 @@ public class EnemyController : MonoBehaviour
             PlayerMovement playerScript = other.gameObject.GetComponent<PlayerMovement>();
             playerScript.getsDamage(damageDirection, 1);
             playerAlive = !playerScript.isDead;
-            //if (!playerAlive)
-            //{
-            //    movement
-            //}
-        
+            if (!playerAlive)
+            {
+                inMovement = false;
+            }
+
         }
     }
     public void getsDamage(Vector2 direction, int amountDamage)
     {
         if (!getDamage)
         {
+            lifes -= amountDamage;
             getDamage = true;
-            Vector2 rebound = ((Vector2)transform.position - direction).normalized;
-            rebound.y = 0.5f; // fuerza vertical
-            //rb.velocity = Vector2.zero; // opcional
-            rb.AddForce(rebound * reboundForce, ForceMode2D.Impulse);
-            StartCoroutine(deactivateDamage());
-
+            if (lifes <= 0)
+            {
+                isDead = true;
+                inMovement = false;
+            }
+            else
+            {
+                Vector2 rebound = ((Vector2)transform.position - direction).normalized;
+                rebound.y = 0.5f; // fuerza vertical
+                                  //rb.velocity = Vector2.zero; // opcional
+                rb.AddForce(rebound * reboundForce, ForceMode2D.Impulse);
+                StartCoroutine(deactivateDamage());
+            }
+           
         }
     }
 
@@ -80,6 +106,12 @@ public class EnemyController : MonoBehaviour
         getDamage = false;
         rb.velocity = Vector2.zero;
     }
+
+    public void deleteBody()
+    {
+        Destroy(gameObject);
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("punch"))

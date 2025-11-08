@@ -56,4 +56,16 @@ public class Animation : MonoBehaviour
         }
     }
 
+    public void CallDestroyEnemyLvl2()
+    {
+        EnemyController enemy = transform.parent.GetComponentInParent<EnemyController>();
+        if (enemy != null)
+        {
+            enemy.deleteBody(); // desactiva el collider al terminar el golpe
+        }
+        else
+        {
+            Debug.LogWarning("No se encontró PlayerMovement en el padre.");
+        }
+    }
 }
