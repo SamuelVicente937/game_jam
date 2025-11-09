@@ -206,9 +206,9 @@ GameObject:
   m_Component:
   - component: {fileID: 3829629191891245599}
   - component: {fileID: 6649847093098779244}
-  - component: {fileID: 8896451463192003115}
   - component: {fileID: 9063656065524087948}
   - component: {fileID: 6377880213260912738}
+  - component: {fileID: 3529166548974343738}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -260,8 +260,52 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!61 &8896451463192003115
-BoxCollider2D:
+--- !u!114 &9063656065524087948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4488621946662645752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e59f0e4f7630ab438898bf0e95fdba2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  life: 5
+  jumpForce: 5
+  reboundForce: 5
+  animator: {fileID: 4469505254431237494}
+  attackCollider: {fileID: 3164192895611462107}
+  raycastLength: 0.56
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  projectilePrefab: {fileID: 0}
+  shootPoint: {fileID: 0}
+  isDead: 0
+  maxJumps: 2
+--- !u!114 &6377880213260912738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4488621946662645752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20562b9f58f89f3448669e41cd4c3ddd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackKey: 120
+  attackRange: 0.5
+  attackPoint: {fileID: 6203865161259181831}
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 64
+--- !u!70 &3529166548974343738
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -292,55 +336,6 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.06999999, y: 1.2697258}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.3482428, y: 2.6630878}
-  m_EdgeRadius: 0
---- !u!114 &9063656065524087948
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4488621946662645752}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0e59f0e4f7630ab438898bf0e95fdba2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5
-  jumpForce: 5
-  reboundForce: 5
-  animator: {fileID: 4469505254431237494}
-  attackCollider: {fileID: 3164192895611462107}
-  raycastLength: 0.56
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 8
---- !u!114 &6377880213260912738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4488621946662645752}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 20562b9f58f89f3448669e41cd4c3ddd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  attackKey: 120
-  attackRange: 0.5
-  attackPoint: {fileID: 6203865161259181831}
-  enemyLayer:
-    serializedVersion: 2
-    m_Bits: 64
+  m_Offset: {x: -0.0667181, y: 1.2643113}
+  m_Size: {x: 1.1404953, y: 2.7546906}
+  m_Direction: 0

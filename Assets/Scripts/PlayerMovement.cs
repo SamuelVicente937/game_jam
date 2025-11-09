@@ -19,7 +19,8 @@ public class PlayerMovement : MonoBehaviour
 
     private bool isGrounded;
     private bool wasGrounded;
-
+    public GameObject projectilePrefab;
+    public Transform shootPoint;
     private bool isHit;
     private bool isAttacking;
     public bool isDead;
@@ -62,12 +63,28 @@ public class PlayerMovement : MonoBehaviour
             {
                 attack();
             }
+
+
+            if (Input.GetKeyDown(KeyCode.X)) // por ejemplo la barra para disparar
+            {
+                Shoot();
+            }
         }
 
 
         animations();
 
     }
+    void Shoot()
+    {
+        GameObject proj = Instantiate(projectilePrefab, shootPoint.position, Quaternion.identity);
+
+        Vector2 dir = Vector2.right; // o hacia donde estés mirando
+        if (transform.localScale.x < 0) dir = Vector2.left;
+
+        proj.GetComponent<Projectile>().direction = dir;
+    }
+
 
     public void movement()
     {
@@ -113,15 +130,19 @@ public class PlayerMovement : MonoBehaviour
                 rebound.y = 0.5f; // fuerza vertical
                                   //rb.velocity = Vector2.zero; // opcional
                 rb.AddForce(rebound * reboundForce, ForceMode2D.Impulse);
+                StartCoroutine(deactivateDamage());
+                
             }
         }
     }
-
-    public void desactiveDamage()
+    public  IEnumerator deactivateDamage()
     {
+        yield return new WaitForSeconds(0.9f);
         isHit = false;
         rb.velocity = Vector2.zero;
     }
+
+ 
 
     public void attack()
     {

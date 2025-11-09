@@ -10,7 +10,7 @@ public class Animation : MonoBehaviour
         PlayerMovement player = transform.parent.GetComponent<PlayerMovement>();
         if (player != null)
         {
-            player.desactiveDamage(); 
+            player.deactivateDamage();
         }
         else
         {
