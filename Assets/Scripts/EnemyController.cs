@@ -9,7 +9,7 @@ public class EnemyController : MonoBehaviour
     public float speed = 2.0f;
     public float reboundForce = 6f;
     private Rigidbody2D rb;
-    private Vector2 movement;
+    private float movementX;
     private bool inMovement;
     [SerializeField] private Animator animator;
     [SerializeField] private SpriteRenderer spriteRenderer;
@@ -51,15 +51,15 @@ public class EnemyController : MonoBehaviour
                 spriteRenderer.flipX = true;
 
 
-            movement = new Vector2(direction.x, 0);
+            movementX = direction.x;
             inMovement = true;
         }
         else
         {
-            movement = Vector2.zero;
+            movementX = 0;
             inMovement = false;
         }
-        if (!getDamage) rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
+        if (!getDamage) rb.velocity = new Vector2(movementX * speed, rb.velocity.y);
 
     }
     private void OnCollisionEnter2D(Collision2D other)
@@ -85,6 +85,7 @@ public class EnemyController : MonoBehaviour
             getDamage = true;
             if (lifes <= 0)
             {
+                rb.velocity = new Vector2(0, rb.velocity.y);
                 isDead = true;
                 inMovement = false;
             }
