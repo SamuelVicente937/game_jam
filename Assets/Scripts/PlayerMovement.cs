@@ -123,6 +123,11 @@ public class PlayerMovement : MonoBehaviour
             if (life <= 0)
             {
                 isDead = true;
+
+                if (GameManager.Instance != null)
+                {
+                    GameManager.Instance.GameOver();
+                }
             }
             if (!isDead)
             {

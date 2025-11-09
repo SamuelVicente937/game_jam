@@ -25,7 +25,7 @@ public class PausarJuego : MonoBehaviour
 
     public void Continue()
     {
-        menuPause.SetActive(false); 
+        menuPause.SetActive(false);
         Time.timeScale = 1;
         isPaused = false;
     }
@@ -39,4 +39,7 @@ public class PausarJuego : MonoBehaviour
     {
         SceneManager.LoadScene("Menu");
     }
+    //public void willContinue(){
+    //    SceneManager.LoadScene("continue.");
+    //    }
 }
