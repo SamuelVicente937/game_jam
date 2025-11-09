@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: bea7f998aa511a94b89ce9ca9c207f5b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DisparaConDosManos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1690
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eda42e97a4d1c4786431cf3647a065
+      internalID: 1331636646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1690
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7443b817fdf314cb6b38598c4e387b
+      internalID: 1354253605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1690
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea740a5ac913e954da9213a6f5d0d810
+      internalID: -1788002436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1690
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c59247db0749dd4eb885e7860aa242a
+      internalID: -1505027851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1690
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff68be3a8ffd14299317a2271fcfc0
+      internalID: 851275475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1690
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f3a2d6df9a7a4ca74c82a5145edf9
+      internalID: -378147009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8878998a343dea34aa5a0b3be14e2d0b
+      internalID: 1687450719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1352
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c321357ef1d1c84eb30afca44dfa7a1
+      internalID: 1302017444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1352
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933c362b950b3449a5d6d1604c87a07
+      internalID: 254553924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1352
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c205235cdc904f847fd74140126d0
+      internalID: 1039212146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1352
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2fb0b804a33647a5999f3e8fe858d
+      internalID: -1705568155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_11
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1352
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8e63e63118204a984a3d7ff3aa246
+      internalID: -2097892366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adda28aecc30c948b9f377f28610bf3
+      internalID: -2097983776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1014
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c49ebce1bab48f4db0b749cbb6c9cdc
+      internalID: -678857417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1014
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4655d456aeddd494b9f4ba55f2f102dc
+      internalID: -1826297354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_15
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1014
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a40ddf33628a04fb57add118268c7b
+      internalID: 614734670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_16
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1014
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ac035fa3f4a047a8c02d20c5e4b69
+      internalID: -1622808291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1014
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b631d4468b5074682b08901f33ae46
+      internalID: 371265451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e86b7660042db4397dd70736658e76
+      internalID: 1430902380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 676
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc78bfd686a8d449d736fe247fd3c7
+      internalID: -790776678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 676
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b830487c82696264ebc6865a7f2223ed
+      internalID: 801831926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 676
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e10b7697a9b0746a58b69643733535
+      internalID: 1068709115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 676
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebadbd51c4a39a846b9e82db0da89219
+      internalID: -1852767852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_23
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 676
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099fc66f478880d4a8c37284fb703599
+      internalID: -2076134535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3ddba7527198d46a5a84270ad83cff
+      internalID: 954838523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34308f7d83cc8244aff5becbc2edad9
+      internalID: -2102659808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 338
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351abdf9ed49f7d4b9271cccacea35af
+      internalID: 424396604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 338
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac775ab00453b459123038185a8f91
+      internalID: 1605000279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 338
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda9db20143b8b45a89736b5a8e90a6
+      internalID: -1536730947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_29
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 338
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3264dbffa9e8343b706fcf85b52ff7
+      internalID: -1958775112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe456de1a8baa7488d78c914d7946ce
+      internalID: -1146494144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a0612b85b461449d414d4cd595562
+      internalID: 1455057243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8d32dbb4fd05b4b841eb0cfd089072
+      internalID: 67673674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_33
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555bfe584caeed941a2363e0e7031e04
+      internalID: 662158862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_34
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfc943fb6af3d346ab8763bde1790b9
+      internalID: 1467055805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaConDosManos_35
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ff715fa2317e443ae78a484c1d3a2b
+      internalID: -500188847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DisparaConDosManos_0: 1331636646
+      DisparaConDosManos_1: 1354253605
+      DisparaConDosManos_10: -1705568155
+      DisparaConDosManos_11: -2097892366
+      DisparaConDosManos_12: -2097983776
+      DisparaConDosManos_13: -678857417
+      DisparaConDosManos_14: -1826297354
+      DisparaConDosManos_15: 614734670
+      DisparaConDosManos_16: -1622808291
+      DisparaConDosManos_17: 371265451
+      DisparaConDosManos_18: 1430902380
+      DisparaConDosManos_19: -790776678
+      DisparaConDosManos_2: -1788002436
+      DisparaConDosManos_20: 801831926
+      DisparaConDosManos_21: 1068709115
+      DisparaConDosManos_22: -1852767852
+      DisparaConDosManos_23: -2076134535
+      DisparaConDosManos_24: 954838523
+      DisparaConDosManos_25: -2102659808
+      DisparaConDosManos_26: 424396604
+      DisparaConDosManos_27: 1605000279
+      DisparaConDosManos_28: -1536730947
+      DisparaConDosManos_29: -1958775112
+      DisparaConDosManos_3: -1505027851
+      DisparaConDosManos_30: -1146494144
+      DisparaConDosManos_31: 1455057243
+      DisparaConDosManos_32: 67673674
+      DisparaConDosManos_33: 662158862
+      DisparaConDosManos_34: 1467055805
+      DisparaConDosManos_35: -500188847
+      DisparaConDosManos_4: 851275475
+      DisparaConDosManos_5: -378147009
+      DisparaConDosManos_6: 1687450719
+      DisparaConDosManos_7: 1302017444
+      DisparaConDosManos_8: 254553924
+      DisparaConDosManos_9: 1039212146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

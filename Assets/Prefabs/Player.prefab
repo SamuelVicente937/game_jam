@@ -282,7 +282,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
-  projectilePrefab: {fileID: 0}
+  projectilePrefab: {fileID: 1752805129868540080, guid: c71e43a2970022e44b9b089a82478389, type: 3}
   shootPoint: {fileID: 0}
   isDead: 0
   maxJumps: 2

@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -93,9 +93,211 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: minionLvl4Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 144
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e8b7bded419d4ea7a06f2309ebe90
+      internalID: 2072285609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minionLvl4Idle_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 525
+        width: 143
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79477fa4e017bd48b78a19a3bc76eca
+      internalID: -1836241399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minionLvl4Idle_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 525
+        width: 137
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d0232fc0cbe54dbb44619a23f99ac
+      internalID: -177561858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minionLvl4Idle_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 263
+        width: 134
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc78bdf9081ccc46802fc3a71f58c1d
+      internalID: -1839336657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minionLvl4Idle_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 263
+        width: 136
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665708b20ff99594bad93ea797c1a742
+      internalID: -1983267600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minionLvl4Idle_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 263
+        width: 129
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4bdd22b863b68439e6594646942a3e
+      internalID: -1289422023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minionLvl4Idle_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 130
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac434c0360ff8b4190989776c497881
+      internalID: -73311417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minionLvl4Idle_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 137
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690b6dc9a5cea247acada6a1c159828
+      internalID: -1329650747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minionLvl4Idle_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 139
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048d40ad72277c84fb1d4499ecfb9958
+      internalID: -1928685318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +308,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      minionLvl4Idle_0: 2072285609
+      minionLvl4Idle_1: -1836241399
+      minionLvl4Idle_2: -177561858
+      minionLvl4Idle_3: -1839336657
+      minionLvl4Idle_4: -1983267600
+      minionLvl4Idle_5: -1289422023
+      minionLvl4Idle_6: -73311417
+      minionLvl4Idle_7: -1329650747
+      minionLvl4Idle_8: -1928685318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

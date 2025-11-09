@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ira.unity
     guid: e33fe5a916bed104f9101ea207265bce
+  - enabled: 1
+    path: Assets/Scenes/tri.unity
+    guid: e3cd0df13452e8146bb2728b368e561f
+  - enabled: 1
+    path: Assets/Scenes/lvlFinal.unity
+    guid: 8eb0f1dd3f2fd4c458074059aebe13ba
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 24bd73216f0661d4db95f214d68a3e02
   - enabled: 0
     path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
     guid: 2cda990e2423bbf4892e6590ba056729

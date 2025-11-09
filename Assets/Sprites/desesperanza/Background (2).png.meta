@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,1351 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Background (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9319.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f5804e999a3104599f57be6618f1b2
+      internalID: 803184246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 9319.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e1de597f26974ba32b5cb2881eaa3
+      internalID: 24954575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 9319.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1efd59b4444143bb728021bb4ac52
+      internalID: 390526823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_3
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 9319.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02575bfdef4a0b4192a15493fe5bf4d
+      internalID: 443960402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 9319.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dc5f8e364e39e4da18f7bee1167c91
+      internalID: -1787300850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_5
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 9319.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834c88840e22dd14ababe286e26f7ceb
+      internalID: 1729338836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_6
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 9319.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53655267186f46840a13051f7ab215dd
+      internalID: -1096026953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_7
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 9319.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06233618a86b564aab45f366d03afe4
+      internalID: -1075735830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7988.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d5f325f00d085479956e07b09703c8
+      internalID: -1816031328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 7988.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b362fe3d4ad384582a4b23ad8badbf
+      internalID: -1532929394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7988.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887bfcefda22c5943a0e6a811a2af93c
+      internalID: -1085881445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_11
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 7988.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed69298869bf86489c5e72311ef0abf
+      internalID: -450582538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7988.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bfd03a41a52b44880598520a00fddf
+      internalID: 1255877316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_13
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7988.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1485a34b3f80174fb184a09f5495768
+      internalID: 702370032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_14
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 7988.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e58683edfcb4064ca3fa88eb65fe7b9
+      internalID: -1932535317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_15
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 7988.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baec66a9cca3bfb44a3b1725fb718c0a
+      internalID: 36352376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6657.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3296dd400f4e20489b9c3c9e469170e
+      internalID: -1038599196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 6657.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e580e46f2a2eb044b3b156ff8b93134
+      internalID: 886939201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6657.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62c31f834b6521459cf58f660c86fb0
+      internalID: 1795753363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_19
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 6657.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a667093093aa459cdef93d33598fd
+      internalID: -1050911763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6657.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450c874b18e3ae94b91423e84212020c
+      internalID: 1211897206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_21
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6657.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec22bf82ce02f4a8cb3780b18c9e2c
+      internalID: 526447620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_22
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 6657.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a43b321e9d7bf4cb2fda54a806b691
+      internalID: 1305491478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_23
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 6657.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d46a86d535514a9fc141ba2a6168e
+      internalID: -1245159123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5326.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d19bae07dd16f44bc0e5452ac06f84
+      internalID: 1657230809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5326.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20636e5b372c5d74880cdde67de6114e
+      internalID: 1254648814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5326.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a20fa36e945f248b40e7fae9100d94
+      internalID: 1828954114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_27
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 5326.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f1856f9e1baf844929ad54835b3696
+      internalID: -84497728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_28
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5326.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ebf680bceacc42b123e90886f549a
+      internalID: 1221122164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_29
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5326.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06419bd378f7d54b8bff677daf96837
+      internalID: 1624154415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_30
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5326.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4977e273f1851ac4aa6b6e325fa46623
+      internalID: 1671576324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_31
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 5326.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3482adccf2642bd44acc5dcb04b0ceb4
+      internalID: 2059583324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3995.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4bdfecef143d648baedc0a36a9fd57
+      internalID: -787787336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3995.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164aa7e992f83de428bb403db5679887
+      internalID: 247106597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3995.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb64315e039f812478ad9d98cdadc638
+      internalID: 1985459411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_35
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3995.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac8b2b1e3f6506429190557bec38515
+      internalID: -1214681998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_36
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3995.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920e9e7eaeba05d46b52ec6b7fa58e2c
+      internalID: 344100598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_37
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3995.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8058ac95346629e4f80b899050abc141
+      internalID: -1195096923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_38
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3995.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05184e0fd425544cb044ca961667ba4
+      internalID: 1359295018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_39
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3995.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b83193489e68642b9d2501b5bfbfc3
+      internalID: -1405363789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2664.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48c3fa1a7fca945b5eaf8415f6a38a
+      internalID: 481000021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2664.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8be599904a64645af89e3171e50d8d
+      internalID: -983219914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2664.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd5119cd4cd1c4bad63c1e10193954
+      internalID: 311320007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_43
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2664.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00ef944785578647820d7e02e1a68fe
+      internalID: 1193910721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_44
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2664.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652675c3093c6e4e954668eaaf0981e
+      internalID: -1288294264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_45
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2664.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f2e599f3e32f4e8308783111f0357
+      internalID: -1797643394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_46
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2664.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee86f10f30b8264fa04e7de1f57d1ab
+      internalID: 678978498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_47
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2664.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3cc5d0d79d14a4eb47af5247577832
+      internalID: 375560837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1333.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46667840b03a99c4caa5e832e4b3a491
+      internalID: 2096327549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1333.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3e197798eeb874b897d81743b64895
+      internalID: 1661415157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_50
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1333.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2713f8fd044886d4cb74faa840303ec3
+      internalID: 1399480738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_51
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1333.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978b45622bdcba4449476f27f2e0ad1f
+      internalID: 1287017628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_52
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1333.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762cf9211dbb11b49b662152a03c8e42
+      internalID: 1182156949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_53
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1333.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f204b0947a2d419c35028805238f6
+      internalID: 1852345975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_54
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1333.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f67c26d9008f46badb63598fb7d0b
+      internalID: -257306333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_55
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1333.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8183dd69e2926b4280bfd8a1ac77c27
+      internalID: 1127168541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6901b0a7d6b988468a58c70b91f699c
+      internalID: -1069047583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49721014525e9a4db85d2da5911d7bf
+      internalID: 148218578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272fd8e3c65f5149a391d157adc4a02
+      internalID: -201884322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_59
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a20878213cd6c40a0131e35a49aa3b
+      internalID: -2085386948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_60
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe18804ca5a1db4b9e32856f7cec3dc
+      internalID: 2101593117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_61
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8158ab115a111048a2b299022391719
+      internalID: 438383189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_62
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad1e2d7b8ee1554b889d13a52c48e79
+      internalID: -1556873615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background (2)_63
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2.625
+        width: 768
+        height: 1331.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9668b8f6319463f4c9117dc409151750
+      internalID: 344655610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +1450,71 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Background (2)_0: 803184246
+      Background (2)_1: 24954575
+      Background (2)_10: -1085881445
+      Background (2)_11: -450582538
+      Background (2)_12: 1255877316
+      Background (2)_13: 702370032
+      Background (2)_14: -1932535317
+      Background (2)_15: 36352376
+      Background (2)_16: -1038599196
+      Background (2)_17: 886939201
+      Background (2)_18: 1795753363
+      Background (2)_19: -1050911763
+      Background (2)_2: 390526823
+      Background (2)_20: 1211897206
+      Background (2)_21: 526447620
+      Background (2)_22: 1305491478
+      Background (2)_23: -1245159123
+      Background (2)_24: 1657230809
+      Background (2)_25: 1254648814
+      Background (2)_26: 1828954114
+      Background (2)_27: -84497728
+      Background (2)_28: 1221122164
+      Background (2)_29: 1624154415
+      Background (2)_3: 443960402
+      Background (2)_30: 1671576324
+      Background (2)_31: 2059583324
+      Background (2)_32: -787787336
+      Background (2)_33: 247106597
+      Background (2)_34: 1985459411
+      Background (2)_35: -1214681998
+      Background (2)_36: 344100598
+      Background (2)_37: -1195096923
+      Background (2)_38: 1359295018
+      Background (2)_39: -1405363789
+      Background (2)_4: -1787300850
+      Background (2)_40: 481000021
+      Background (2)_41: -983219914
+      Background (2)_42: 311320007
+      Background (2)_43: 1193910721
+      Background (2)_44: -1288294264
+      Background (2)_45: -1797643394
+      Background (2)_46: 678978498
+      Background (2)_47: 375560837
+      Background (2)_48: 2096327549
+      Background (2)_49: 1661415157
+      Background (2)_5: 1729338836
+      Background (2)_50: 1399480738
+      Background (2)_51: 1287017628
+      Background (2)_52: 1182156949
+      Background (2)_53: 1852345975
+      Background (2)_54: -257306333
+      Background (2)_55: 1127168541
+      Background (2)_56: -1069047583
+      Background (2)_57: 148218578
+      Background (2)_58: -201884322
+      Background (2)_59: -2085386948
+      Background (2)_6: -1096026953
+      Background (2)_60: 2101593117
+      Background (2)_61: 438383189
+      Background (2)_62: -1556873615
+      Background (2)_63: 344655610
+      Background (2)_7: -1075735830
+      Background (2)_8: -1816031328
+      Background (2)_9: -1532929394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

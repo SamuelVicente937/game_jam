@@ -14,4 +14,8 @@ public class MenuSystem : MonoBehaviour
     {
         Application.Quit();
     }
+    public void About()
+    {
+        SceneManager.LoadScene("About");
+    }
 }

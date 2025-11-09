@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: bec540b636fd63e45bcc58b5c7f3e8de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DisparaconUnaMano_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1505
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e9839708a10849ab7670c262a9362
+      internalID: 726149333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1505
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867c6a8fc0fcc5047a5b0bb5d9282a2f
+      internalID: -477381974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1505
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94dfd1b89e2df4fa5bc79ee11902be
+      internalID: -1262792062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1505
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a6c455b26a63e408ee88fe02683104
+      internalID: -1892409300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1505
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f27628ac0b9f954696d6f226a0327c6
+      internalID: 974882420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1505
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7b16ca3b582541ad3175dfc5d2f56
+      internalID: -2006560721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978f6d613f14f54abda280fed99f427
+      internalID: -984660299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1204
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa9fd6af2c5c44e9c394259c225bc4
+      internalID: -395352542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1204
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b22d69681cd846b923c5d946a605b
+      internalID: -1484727422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1204
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46ef9e488c3c043bc5063b60e4c904
+      internalID: 174755533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1204
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8fc6cc61658ec4abda0026c3461c51
+      internalID: -998429213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_11
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1204
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c03f9c50312ad429d5398d96f1297f
+      internalID: -1026958785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 903
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb93e86d38bf541b2c0f87a961cc4c
+      internalID: 1850525158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 903
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee83f7fbd6cec4384bf07de191d901
+      internalID: 552857319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 903
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1699fa636d69f149be85fcfd515060a
+      internalID: 1516908978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_15
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 903
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8f594ac3bfe74196203a26a5c9acd
+      internalID: 981538964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_16
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 903
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c0532141c00c4aa55955bd8f5e478
+      internalID: 1559202620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 903
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12845f2769fd6549babecb3955226e7
+      internalID: 1784362858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa81f942c03f256498fb4384417f9531
+      internalID: 1928256950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 602
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c038665ebe9fb47b7048523f4a9074
+      internalID: -730693508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 602
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e229551918e2f42a353bcc4b2dc05f
+      internalID: -1401568257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 602
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1315cdce2430a4283a014fc8103753
+      internalID: -1084311556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 602
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7259002a5682e634288f94a2eddfaa40
+      internalID: -1670927126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_23
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 602
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8945c0f9d18d2144a50aaed09aeabe8
+      internalID: 436044271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41ab483bb67564ca8021e8d29b6909
+      internalID: -810662330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 301
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f167a4a27b0e341afe001d737bb8c5
+      internalID: 2103812596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 301
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869ba4905ea97c3499bbae7f649388ff
+      internalID: -1848143658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 301
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7bd4976400a364988f2d4602b689e2
+      internalID: -1959572227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 301
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16b1dc190b1cef4d8ed52e98c86a916
+      internalID: -1735057199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_29
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 301
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f30603528b46f3488113b37a697a78e
+      internalID: -1610248519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b02e3aa102114cb69d967d4f548ac
+      internalID: -1271508605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0dc03341beae347b3e41832172939e
+      internalID: -24680050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6264b6b5cc22b84db2269b679d4db5a
+      internalID: -1110484870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_33
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c12d10fa8f7b94b97af308ac227977
+      internalID: 2114430294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_34
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354117fa3fe18d74594cdba3290e8e53
+      internalID: -1309003905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparaconUnaMano_35
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419d0251de0b2843937258146e7596d
+      internalID: 1003437064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DisparaconUnaMano_0: 726149333
+      DisparaconUnaMano_1: -477381974
+      DisparaconUnaMano_10: -998429213
+      DisparaconUnaMano_11: -1026958785
+      DisparaconUnaMano_12: 1850525158
+      DisparaconUnaMano_13: 552857319
+      DisparaconUnaMano_14: 1516908978
+      DisparaconUnaMano_15: 981538964
+      DisparaconUnaMano_16: 1559202620
+      DisparaconUnaMano_17: 1784362858
+      DisparaconUnaMano_18: 1928256950
+      DisparaconUnaMano_19: -730693508
+      DisparaconUnaMano_2: -1262792062
+      DisparaconUnaMano_20: -1401568257
+      DisparaconUnaMano_21: -1084311556
+      DisparaconUnaMano_22: -1670927126
+      DisparaconUnaMano_23: 436044271
+      DisparaconUnaMano_24: -810662330
+      DisparaconUnaMano_25: 2103812596
+      DisparaconUnaMano_26: -1848143658
+      DisparaconUnaMano_27: -1959572227
+      DisparaconUnaMano_28: -1735057199
+      DisparaconUnaMano_29: -1610248519
+      DisparaconUnaMano_3: -1892409300
+      DisparaconUnaMano_30: -1271508605
+      DisparaconUnaMano_31: -24680050
+      DisparaconUnaMano_32: -1110484870
+      DisparaconUnaMano_33: 2114430294
+      DisparaconUnaMano_34: -1309003905
+      DisparaconUnaMano_35: 1003437064
+      DisparaconUnaMano_4: 974882420
+      DisparaconUnaMano_5: -2006560721
+      DisparaconUnaMano_6: -984660299
+      DisparaconUnaMano_7: -395352542
+      DisparaconUnaMano_8: -1484727422
+      DisparaconUnaMano_9: 174755533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
